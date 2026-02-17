@@ -1,9 +1,5 @@
 <div align="center">
 
-<a href="https://ksug.ai">
-  <img src="https://ksug.ai/assets/Logo-C22ZmRMJ.jpg" alt="KSUG.AI" width="200"/>
-</a>
-
 # 🚀 Linux Foundation Certification Deals
 
 ### *Your Gateway to Cloud Native Excellence*
@@ -183,6 +179,10 @@
 ✅ Become a speaker, sponsor, or volunteer
 
 ---
+
+<a href="https://ksug.ai/save/?ref=github">
+  <img src="https://ksug.ai/assets/Logo-C22ZmRMJ.jpg" alt="KSUG.AI" width="200"/>
+</a>
 
 **KSUG.AI: Powering the Future of Kubernetes & AI** 🚀
 
