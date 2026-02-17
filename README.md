@@ -19,7 +19,7 @@
 <tr>
 <td width="33%">
 
-### 🔒 Cybersecurity Super Bundle
+#### 🔒 Cybersecurity Super Bundle
 **75% OFF** • Code: `LUNAR26SBAI`
 
 - 🔐 [Get Bundle](https://cny.ksug.ai)
@@ -27,7 +27,7 @@
 </td>
 <td width="33%">
 
-### ☁️ Cloud Native Super Bundle
+#### ☁️ Cloud Native Super Bundle
 **75% OFF** • Code: `LUNAR26SBAI`
 
 - ☁️ [Get Bundle](https://cny.ksug.ai)
@@ -35,7 +35,7 @@
 </td>
 <td width="34%">
 
-### 👨‍💻 Cloud Native Developer Super Bundle
+#### 👨‍💻 Cloud Native Developer Super Bundle
 **75% OFF** • Code: `LUNAR26SBAI`
 
 - 🚀 [Get Bundle](https://cny.ksug.ai)
