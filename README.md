@@ -13,7 +13,7 @@
 
 ## 🎯 Active Promotions
 
-> **Luna New Year Sale** • Ends Feb 24, 2026 • Up to 75% OFF
+> **Luna New Year Sale** • Ends Feb 24, 2026 • Up to 75% OFF • [Check latest promos!](https://ksug.ai/save/?ref=github)
 
 <table>
 <tr>
