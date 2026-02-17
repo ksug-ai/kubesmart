@@ -110,12 +110,10 @@
 
 > **30% OFF** any Linux Foundation certification, bundle, or training • No expiration
 
-```bash
-# How to redeem:
+**How to redeem:**
 1. [Browse catalog](https://www.anrdoezrs.net/click-101143593-15404327)
-2. Apply code: 30K8SUG
+2. Apply code: **`30K8SUG`**
 3. Complete purchase ✓
-```
 
 ---
 
