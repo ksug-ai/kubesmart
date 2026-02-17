@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://ksug.ai">
+  <img src="https://ksug.ai/assets/Logo-C22ZmRMJ.jpg" alt="KSUG.AI" width="200"/>
+</a>
+
 # 🚀 Linux Foundation Certification Deals
 
 ### *Your Gateway to Cloud Native Excellence*
@@ -112,7 +116,7 @@
 
 ```bash
 # How to redeem:
-1. Browse catalog → https://www.anrdoezrs.net/click-101143593-15404327
+1. [Browse catalog](https://www.anrdoezrs.net/click-101143593-15404327)
 2. Apply code: 30K8SUG
 3. Complete purchase ✓
 ```
