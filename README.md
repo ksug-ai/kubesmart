@@ -17,26 +17,47 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 💎 Super Bundle
+### 🔒 Cybersecurity Super Bundle
 **75% OFF** • Code: `LUNAR26SBAI`
 
-- 🎓 [CKA + CKS + LFCS + 6 Courses](https://cny.ksug.ai)
+- 🔐 [Get Bundle](https://cny.ksug.ai)
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 🌟 Kubestronaut Bundles
-**40% OFF** • Code: `LUNAR26K8AI`
+### ☁️ Cloud Native Super Bundle
+**75% OFF** • Code: `LUNAR26SBAI`
 
-- 🏆 [Kubestronaut Bundle](http://kb.ksug.ai)
-- 🥇 [Golden Kubestronaut](http://gk.ksug.ai)
-- ⬆️ [Kubestronaut Upgrades](http://gk.ksug.ai)
+- ☁️ [Get Bundle](https://cny.ksug.ai)
+
+</td>
+<td width="34%">
+
+### 👨‍💻 Cloud Native Developer Super Bundle
+**75% OFF** • Code: `LUNAR26SBAI`
+
+- 🚀 [Get Bundle](https://cny.ksug.ai)
 
 </td>
 </tr>
 </table>
+
+### 🌟 Kubestronaut Bundles • **40% OFF** • Code: `LUNAR26K8AI`
+
+<details open>
+<summary><b>View All Kubestronaut Options (5 bundles)</b></summary>
+
+| Bundle | Link |
+|--------|------|
+| Kubestronaut Bundle | [→ Get Bundle](http://kb.ksug.ai) |
+| Golden Kubestronaut | [→ Get Bundle](http://gk.ksug.ai) |
+| Kubestronaut to Golden Upgrade | [→ Get Bundle](http://gk.ksug.ai) |
+| CKA to Kubestronaut Upgrade | [→ Get Bundle](http://gk.ksug.ai) |
+| CKAD to Kubestronaut Upgrade | [→ Get Bundle](http://gk.ksug.ai) |
+
+</details>
 
 ### 📦 Bundle Deals • **50% OFF** • Code: `LUNAR26BUNAI`
 
@@ -181,6 +202,6 @@
   <img src="https://ksug.ai/assets/Logo-C22ZmRMJ.jpg" alt="KSUG.AI" width="200"/>
 </a>
 
-**KSUG.AI: Powering the Future of Kubernetes & AI** 🚀
+**KSUG.AI: Powering the Future of Cloud Native & AI** 🚀
 
 </div>
