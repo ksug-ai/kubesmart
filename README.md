@@ -142,9 +142,8 @@
 
 **📦 Combo Deals**
 - [CKA + CKAD + CKS](http://ckaads.ksug.ai) • [CKA + CKAD](http://ckaad.ksug.ai) • [CKA + CKS](http://ckas.ksug.ai) • [CKA + KCNA](http://nacka.ksug.ai)
-- [KCSA + CKS](http://sacks.ksug.ai) • [KCSA + KCNA](http://nasa.ksug.ai)
-- [ICA + LFS245](http://ica.ksug.ai) • [CAPA + LFS256](http://capa.ksug.ai) • [PCA + LFS241](https://www.jdoqocy.com/click-101143593-15404326)
-- [LFCA + KCNA](http://30.ksug.ai) • [LFCA + LFS200](http://30.ksug.ai)
+- [KCSA + CKS](http://sacks.ksug.ai) • [KCSA + KCNA](http://nasa.ksug.ai) • [ICA + LFS245](http://ica.ksug.ai) • [CAPA + LFS256](http://capa.ksug.ai)
+- [LFCA + KCNA](http://30.ksug.ai) • [LFCA + LFS200](http://30.ksug.ai) • [PCA + LFS241](https://www.jdoqocy.com/click-101143593-15404326)
 
 ---
 
