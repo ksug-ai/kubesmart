@@ -5,7 +5,7 @@
 ### *Your Gateway to Cloud Native Excellence*
 
 [![Get Notified](https://img.shields.io/badge/🔔_Get_Notified-Future_Deals-blue?style=for-the-badge)](https://ksug.ai/?notify&ref=github)
-[![Bookmark](https://img.shields.io/badge/⭐_Bookmark-This_Page-yellow?style=for-the-badge)](https://github.com/ksug-ai/kubesmart)
+[![Star This Repo](https://img.shields.io/badge/⭐_Star-This_Repo-yellow?style=for-the-badge)](https://github.com/ksug-ai/kubesmart/stargazers)
 
 </div>
 
@@ -87,20 +87,20 @@
 
 | Certification | Link |
 |---------------|------|
-| 🔵 Certified Kubernetes Administrator (CKA) | [→ Enroll](https://www.anrdoezrs.net/click-101143593-15404327) |
-| 🔵 Certified Kubernetes Application Developer (CKAD) | [→ Enroll](https://www.tkqlhce.com/click-101143593-15404321) |
-| 🔵 Certified Kubernetes Security Specialist (CKS) | [→ Enroll](https://www.tkqlhce.com/click-101143593-15404322) |
-| 🟢 Kubernetes and Cloud Native Associate (KCNA) | [→ Enroll](https://www.jdoqocy.com/click-101143593-15575100) |
-| 🟢 Kubernetes and Cloud Native Security Associate (KCSA) | [→ Enroll](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fkubernetes-and-cloud-native-security-associate-kcsa%2F%23) |
-| 🟡 Prometheus Certified Associate (PCA) | [→ Enroll](https://www.jdoqocy.com/click-101143593-15404326) |
-| 🟡 Istio Certified Associate (ICA) | [→ Enroll](https://www.jdoqocy.com/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fistio-certified-associate-ica%2F) |
-| 🟡 Certified Argo Project Associate (CAPA) | [→ Enroll](https://www.anrdoezrs.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-argo-project-associate-capa%2F) |
-| 🟡 Certified GitOps Associate (CGOA) | [→ Enroll](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-gitops-associate-cgoa%2F) |
-| 🟡 Cilium Certified Associate (CCA) | [→ Enroll](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcilium-certified-associate-cca%2F) |
-| 🟡 Certified Backstage Associate (CBA) | [→ Enroll](https://www.kqzyfj.com/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-backstage-associate-cba%2F) |
-| 🟡 OpenTelemetry Certified Associate (OTCA) | [→ Enroll](https://www.jdoqocy.com/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fopentelemetry-certified-associate-otca%2F) |
-| 🟡 Kyverno Certified Associate (KCA) | [→ Enroll](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fkyverno-certified-associate-kca%2F) |
-| 🔴 Linux Foundation Certified System Administrator (LFCS) | [→ Enroll](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Flinux-foundation-certified-sysadmin-lfcs%2F) |
+| 🔵 Certified Kubernetes Administrator (CKA) | [→ Enroll](https://cka.ksug.ai) |
+| 🔵 Certified Kubernetes Application Developer (CKAD) | [→ Enroll](https://ckad.ksug.ai) |
+| 🔵 Certified Kubernetes Security Specialist (CKS) | [→ Enroll](https://cks.ksug.ai) |
+| 🟢 Kubernetes and Cloud Native Associate (KCNA) | [→ Enroll](https://kcna.ksug.ai) |
+| 🟢 Kubernetes and Cloud Native Security Associate (KCSA) | [→ Enroll](https://kcsa.ksug.ai) |
+| 🟡 Prometheus Certified Associate (PCA) | [→ Enroll](https://pca.ksug.ai) |
+| 🟡 Istio Certified Associate (ICA) | [→ Enroll](https://ica.ksug.ai) |
+| 🟡 Certified Argo Project Associate (CAPA) | [→ Enroll](https://capa.ksug.ai) |
+| 🟡 Certified GitOps Associate (CGOA) | [→ Enroll](https://cgoa.ksug.ai) |
+| 🟡 Cilium Certified Associate (CCA) | [→ Enroll](https://cca.ksug.ai) |
+| 🟡 Certified Backstage Associate (CBA) | [→ Enroll](https://cba.ksug.ai) |
+| 🟡 OpenTelemetry Certified Associate (OTCA) | [→ Enroll](https://otca.ksug.ai) |
+| 🟡 Kyverno Certified Associate (KCA) | [→ Enroll](https://kca.ksug.ai) |
+| 🔴 Linux Foundation Certified System Administrator (LFCS) | [→ Enroll](https://lfcs.ksug.ai) |
 | 🟣 Certified Cloud Native Platform Engineering Associate (CNPA) | [→ Enroll](https://cnpa.ksug.ai) |
 | 🟣 Certified Cloud Native Platform Engineer (CNPE) | [→ Enroll](https://cnpe.ksug.ai) |
 
@@ -132,7 +132,7 @@
 > **30% OFF** any Linux Foundation certification, bundle, or training • No expiration
 
 **How to redeem:**
-1. [Browse catalog](https://www.anrdoezrs.net/click-101143593-15404327)
+1. [Browse catalog](https://lf.ksug.ai)
 2. Apply code: **`30K8SUG`**
 3. Complete purchase ✓
 
@@ -143,13 +143,13 @@
 ### Popular Certifications
 
 **🔵 Kubernetes Track**
-- [CKA](https://www.anrdoezrs.net/click-101143593-15404327) • [CKAD](https://www.tkqlhce.com/click-101143593-15404321) • [CKS](https://www.tkqlhce.com/click-101143593-15404322) • [KCNA](https://www.jdoqocy.com/click-101143593-15575100) • [KCSA](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fkubernetes-and-cloud-native-security-associate-kcsa%2F%23)
+- [CKA](https://cka.ksug.ai) • [CKAD](https://ckad.ksug.ai) • [CKS](https://cks.ksug.ai) • [KCNA](https://kcna.ksug.ai) • [KCSA](https://kcsa.ksug.ai)
 
 **🟡 Cloud Native Tools**
-- [PCA](https://www.jdoqocy.com/click-101143593-15404326) • [ICA](https://www.jdoqocy.com/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fistio-certified-associate-ica%2F) • [CAPA](https://www.anrdoezrs.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-argo-project-associate-capa%2F) • [CGOA](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-gitops-associate-cgoa%2F) • [CCA](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcilium-certified-associate-cca%2F) • [CBA](https://www.kqzyfj.com/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-backstage-associate-cba%2F) • [OTCA](https://www.jdoqocy.com/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fopentelemetry-certified-associate-otca%2F) • [KCA](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fkyverno-certified-associate-kca%2F)
+- [PCA](https://pca.ksug.ai) • [ICA](https://ica.ksug.ai) • [CAPA](https://capa.ksug.ai) • [CGOA](https://cgoa.ksug.ai) • [CCA](https://cca.ksug.ai) • [CBA](https://cba.ksug.ai) • [OTCA](https://otca.ksug.ai) • [KCA](https://kca.ksug.ai)
 
 **🔴 Linux Foundation**
-- [LFCS](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Flinux-foundation-certified-sysadmin-lfcs%2F)
+- [LFCS](https://lfcs.ksug.ai)
 
 **🟣 Platform Engineering**
 - [CNPA](https://cnpa.ksug.ai) • [CNPE](https://cnpe.ksug.ai)
@@ -162,7 +162,7 @@
 **📦 Combo Deals**
 - [CKA + CKAD + CKS](http://ckads.ksug.ai) • [CKA + CKAD](http://ckaad.ksug.ai) • [CKA + CKS](http://ckas.ksug.ai) • [CKA + KCNA](http://nacka.ksug.ai)
 - [KCSA + CKS](http://sacks.ksug.ai) • [KCSA + KCNA](http://nasa.ksug.ai) • [ICA + LFS245](http://ica.ksug.ai) • [CAPA + LFS256](http://capa.ksug.ai)
-- [LFCA + KCNA](http://30.ksug.ai) • [LFCA + LFS200](http://30.ksug.ai) • [PCA + LFS241](https://www.jdoqocy.com/click-101143593-15404326)
+- [LFCA + KCNA](http://lfca.ksug.ai) • [LFCA + LFS200](http://lfca.ksug.ai) • [PCA + LFS241](https://pca.ksug.ai)
 
 ---
 
