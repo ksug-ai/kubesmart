@@ -174,7 +174,7 @@
 
 <div align="center">
 
-## 🌍 Join KSUG.AI Community
+## 🌍 Join [KSUG.AI](https://ksug.ai/?ref=github) Community
 
 [![Website](https://img.shields.io/badge/🌐_Website-ksug.ai-blue?style=flat-square)](https://ksug.ai/save/?ref=github)
 [![Linktree](https://img.shields.io/badge/🔗_All_Links-linktr.ee-green?style=flat-square)](https://linktr.ee/ksug.ai)
