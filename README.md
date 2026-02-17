@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Linux Foundation Certification Deals
+# 🚀 [Linux Foundation](https://lf.ksug.ai) Certification Deals
 
 ### *Your Gateway to Cloud Native Excellence*
 
