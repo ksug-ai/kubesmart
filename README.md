@@ -123,52 +123,28 @@
 
 ### Popular Certifications
 
-```
-🔵 Kubernetes Track
-├─ CKA  → https://www.anrdoezrs.net/click-101143593-15404327
-├─ CKAD → https://www.tkqlhce.com/click-101143593-15404321
-├─ CKS  → https://www.tkqlhce.com/click-101143593-15404322
-├─ KCNA → https://www.jdoqocy.com/click-101143593-15575100
-└─ KCSA → https://www.dpbolvw.net/click-101143593-15413961?url=...
+**🔵 Kubernetes Track**
+- [CKA](https://www.anrdoezrs.net/click-101143593-15404327) • [CKAD](https://www.tkqlhce.com/click-101143593-15404321) • [CKS](https://www.tkqlhce.com/click-101143593-15404322) • [KCNA](https://www.jdoqocy.com/click-101143593-15575100) • [KCSA](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fkubernetes-and-cloud-native-security-associate-kcsa%2F%23)
 
-🟡 Cloud Native Tools
-├─ PCA  → https://www.jdoqocy.com/click-101143593-15404326
-├─ ICA  → https://www.jdoqocy.com/click-101143593-15413961?url=...
-├─ CAPA → https://www.anrdoezrs.net/click-101143593-15413961?url=...
-├─ CGOA → https://www.dpbolvw.net/click-101143593-15413961?url=...
-├─ CCA  → https://www.dpbolvw.net/click-101143593-15413961?url=...
-├─ CBA  → https://www.kqzyfj.com/click-101143593-15413961?url=...
-├─ OTCA → https://www.jdoqocy.com/click-101143593-15413961?url=...
-└─ KCA  → https://www.dpbolvw.net/click-101143593-15413961?url=...
+**🟡 Cloud Native Tools**
+- [PCA](https://www.jdoqocy.com/click-101143593-15404326) • [ICA](https://www.jdoqocy.com/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fistio-certified-associate-ica%2F) • [CAPA](https://www.anrdoezrs.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-argo-project-associate-capa%2F) • [CGOA](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-gitops-associate-cgoa%2F) • [CCA](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcilium-certified-associate-cca%2F) • [CBA](https://www.kqzyfj.com/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fcertified-backstage-associate-cba%2F) • [OTCA](https://www.jdoqocy.com/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fopentelemetry-certified-associate-otca%2F) • [KCA](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Fkyverno-certified-associate-kca%2F)
 
-🔴 Linux Foundation
-└─ LFCS → https://www.dpbolvw.net/click-101143593-15413961?url=...
+**🔴 Linux Foundation**
+- [LFCS](https://www.dpbolvw.net/click-101143593-15413961?url=https%3A%2F%2Ftraining.linuxfoundation.org%2Fcertification%2Flinux-foundation-certified-sysadmin-lfcs%2F)
 
-🟣 Platform Engineering
-├─ CNPA → https://cnpa.ksug.ai
-└─ CNPE → https://cnpe.ksug.ai
-```
+**🟣 Platform Engineering**
+- [CNPA](https://cnpa.ksug.ai) • [CNPE](https://cnpe.ksug.ai)
 
 ### Popular Bundles
 
-```
-🏆 Elite Bundles
-├─ Kubestronaut        → http://kb.ksug.ai
-└─ Golden Kubestronaut → http://gk.ksug.ai
+**🏆 Elite Bundles**
+- [Kubestronaut](http://kb.ksug.ai) • [Golden Kubestronaut](http://gk.ksug.ai)
 
-📦 Combo Deals
-├─ CKA + CKAD + CKS → http://ckaads.ksug.ai
-├─ CKA + CKAD       → http://ckaad.ksug.ai
-├─ CKA + CKS        → http://ckas.ksug.ai
-├─ CKA + KCNA       → http://nacka.ksug.ai
-├─ KCSA + CKS       → http://sacks.ksug.ai
-├─ KCSA + KCNA      → http://nasa.ksug.ai
-├─ ICA + LFS245     → http://ica.ksug.ai
-├─ CAPA + LFS256    → http://capa.ksug.ai
-├─ LFCA + KCNA      → http://30.ksug.ai
-├─ LFCA + LFS200    → http://30.ksug.ai
-└─ PCA + LFS241     → https://www.jdoqocy.com/click-101143593-15404326
-```
+**📦 Combo Deals**
+- [CKA + CKAD + CKS](http://ckaads.ksug.ai) • [CKA + CKAD](http://ckaad.ksug.ai) • [CKA + CKS](http://ckas.ksug.ai) • [CKA + KCNA](http://nacka.ksug.ai)
+- [KCSA + CKS](http://sacks.ksug.ai) • [KCSA + KCNA](http://nasa.ksug.ai)
+- [ICA + LFS245](http://ica.ksug.ai) • [CAPA + LFS256](http://capa.ksug.ai) • [PCA + LFS241](https://www.jdoqocy.com/click-101143593-15404326)
+- [LFCA + KCNA](http://30.ksug.ai) • [LFCA + LFS200](http://30.ksug.ai)
 
 ---
 
