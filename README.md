@@ -136,6 +136,12 @@
 2. Apply code: **`30K8SUG`**
 3. Complete purchase ✓
 
+> **37% OFF** KodeKloud Standard • No expiration
+
+**How to redeem:**
+1. [Save Now](https://ksug.ai/kk/?ref=github)
+2. Apply code: **`K8SUGKK`**
+3. Complete purchase ✓
 ---
 
 ## 📚 Quick Links
