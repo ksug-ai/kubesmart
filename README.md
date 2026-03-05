@@ -11,40 +11,40 @@
 
 ---
 
-## 🎯 Active Promotions (EXPIRED) [Get Notified!](https://ksug.ai/?notify&ref=github)
+## 🎯 Active Promotions | [Get Notified!](https://ksug.ai/?notify&ref=github)
 
-> **Luna New Year Sale** • Ends Feb 28, 2026 • Up to 75% OFF • [Check latest promos!](https://ksug.ai/save/?ref=github)
+> **International Women's Day Sale** • Ends Mar 9, 2026 • 35% OFF Sitewide • [Check latest promos!](https://ksug.ai/save/?ref=github)
 
 <table>
 <tr>
 <td width="33%">
 
 #### 🔒 Cybersecurity Super Bundle
-**75% OFF** • Code: `LUNAR26SBAI`
+**35% OFF** • Code: `IWD26AI`
 
-- 🔐 [Get Bundle](https://cny.ksug.ai)
+- 🔐 [Get Bundle](https://ksug.ai/sb)
 
 </td>
 <td width="33%">
 
 #### ☁️ Cloud Native Super Bundle
-**75% OFF** • Code: `LUNAR26SBAI`
+**35% OFF** • Code: `IWD26AI`
 
-- ☁️ [Get Bundle](https://cny.ksug.ai)
+- ☁️ [Get Bundle](https://ksug.ai/sb)
 
 </td>
 <td width="34%">
 
 #### 👨‍💻 Cloud Native Developer Super Bundle
-**75% OFF** • Code: `LUNAR26SBAI`
+**35% OFF** • Code: `IWD26AI`
 
-- 🚀 [Get Bundle](https://cny.ksug.ai)
+- 🚀 [Get Bundle](https://ksug.ai/sb)
 
 </td>
 </tr>
 </table>
 
-### 🌟 Kubestronaut Bundles • **40% OFF** • Code: `LUNAR26K8AI`
+### 🌟 Kubestronaut Bundles • **35% OFF** • Code: `IWD26AI`
 
 <details open>
 <summary><b>View All Kubestronaut Options (5 bundles)</b></summary>
@@ -59,7 +59,7 @@
 
 </details>
 
-### 📦 Bundle Deals • **50% OFF** • Code: `LUNAR26BUNAI`
+### 📦 Bundle Deals • **35% OFF** • Code: `IWD26AI`
 
 <details open>
 <summary><b>View All Bundles (11 options)</b></summary>
@@ -193,8 +193,8 @@
 
 🔗 [Founder LinkedIn](https://linkedin.com/in/yongkanghe) • 52K+ followers  
 💪 [kubestrong](https://linkedin.com/company/kubestrong) • 35K+ followers  
-☁️ [awstronaut](https://linkedin.com/company/awstronaut) • 14K+ followers  
-💬 [Discussion Group](https://www.linkedin.com/groups/13983251/) • 24K+ members
+☁️ [awstronaut](https://linkedin.com/company/awstronaut) • 15K+ followers  
+💬 [Discussion Group](https://www.linkedin.com/groups/13983251/) • 25K+ members
 
 ### Get Involved
 
