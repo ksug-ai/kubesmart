@@ -13,14 +13,14 @@
 
 ## 🎯 Active Promotions | [Get Notified!](https://ksug.ai/?notify&ref=github)
 
-> **International Women's Day Sale** • Ends Mar 9, 2026 • 35% OFF Sitewide • [Check latest promos!](https://ksug.ai/save/?ref=github)
+> **Sitewide Sale • 30% OFF • [Check latest promos!](https://ksug.ai/save/?ref=github)
 
 <table>
 <tr>
 <td width="33%">
 
 #### 🔒 Cybersecurity Super Bundle
-**35% OFF** • Code: `IWD26AI`
+**30% OFF** • Code: `30K8SUG`
 
 - 🔐 [Get Bundle](https://ksug.ai/sb)
 
@@ -28,7 +28,7 @@
 <td width="33%">
 
 #### ☁️ Cloud Native Super Bundle
-**35% OFF** • Code: `IWD26AI`
+**30% OFF** • Code: `30K8SUG`
 
 - ☁️ [Get Bundle](https://ksug.ai/sb)
 
@@ -36,7 +36,7 @@
 <td width="34%">
 
 #### 👨‍💻 Cloud Native Developer Super Bundle
-**35% OFF** • Code: `IWD26AI`
+**30% OFF** • Code: `30K8SUG`
 
 - 🚀 [Get Bundle](https://ksug.ai/sb)
 
@@ -44,7 +44,7 @@
 </tr>
 </table>
 
-### 🌟 Kubestronaut Bundles • **35% OFF** • Code: `IWD26AI`
+### 🌟 Kubestronaut Bundles • **30% OFF** • Code: `30K8SUG`
 
 <details open>
 <summary><b>View All Kubestronaut Options (5 bundles)</b></summary>
@@ -59,7 +59,7 @@
 
 </details>
 
-### 📦 Bundle Deals • **35% OFF** • Code: `IWD26AI`
+### 📦 Bundle Deals • **30% OFF** • Code: `30K8SUG`
 
 <details open>
 <summary><b>View All Bundles (11 options)</b></summary>
@@ -80,7 +80,7 @@
 
 </details>
 
-### 🎓 Individual Certifications • **35% OFF** • Code: `IWD26AI`
+### 🎓 Individual Certifications • **30% OFF** • Code: `30K8SUG`
 
 <details>
 <summary><b>View All Certifications (16 options)</b></summary>
