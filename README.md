@@ -1,19 +1,19 @@
 <div align="center">
 
-# 🚀 [Linux Foundation](https://lf.ksug.ai) Certification Deals
+# 🚀 <a href="https://lf.ksug.ai" target="_blank">Linux Foundation</a> Certification Deals
 
 ### *Your Gateway to Cloud Native Excellence*
 
-[![Get Notified](https://img.shields.io/badge/🔔_Get_Notified-Future_Deals-blue?style=for-the-badge)](https://ksug.ai/?notify&ref=github)
-[![Star This Repo](https://img.shields.io/badge/⭐_Star-This_Repo-yellow?style=for-the-badge)](https://github.com/ksug-ai/kubesmart/stargazers)
+<a href="https://ksug.ai/?notify&ref=github" target="_blank"><img src="https://img.shields.io/badge/🔔_Get_Notified-Future_Deals-blue?style=for-the-badge" alt="Get Notified"/></a>
+<a href="https://github.com/ksug-ai/kubesmart/stargazers" target="_blank"><img src="https://img.shields.io/badge/⭐_Star-This_Repo-yellow?style=for-the-badge" alt="Star This Repo"/></a>
 
 </div>
 
 ---
 
-## 🎯 Active Promotions | [Get Notified!](https://ksug.ai/?notify&ref=github)
+## 🎯 Active Promotions | <a href="https://ksug.ai/?notify&ref=github" target="_blank">Get Notified!</a>
 
-> 🛣️ Road to KubeCon EU Promo • Ends Mar 23 • 50% OFF • [Check latest promos!](https://r2k.ksug.ai/)
+> 🛣️ Road to KubeCon EU Promo • Ends Mar 23 • 50% OFF • <a href="https://r2k.ksug.ai/" target="_blank">Check latest promos!</a>
 
 <table>
 <tr>
@@ -22,7 +22,7 @@
 #### 🔒 Cybersecurity Super Bundle
 **50% OFF** • Code: `R2KUBEAI`
 
-- 🔐 [Get Bundle](https://ksug.ai/sb)
+- 🔐 <a href="https://ksug.ai/sb" target="_blank">Get Bundle</a>
 
 </td>
 <td width="33%">
@@ -30,7 +30,7 @@
 #### ☁️ Cloud Native Super Bundle
 **50% OFF** • Code: `R2KUBEAI`
 
-- ☁️ [Get Bundle](https://ksug.ai/sb)
+- ☁️ <a href="https://ksug.ai/sb" target="_blank">Get Bundle</a>
 
 </td>
 <td width="34%">
@@ -38,7 +38,7 @@
 #### 👨‍💻 Cloud Native Developer Super Bundle
 **50% OFF** • Code: `R2KUBEAI`
 
-- 🚀 [Get Bundle](https://ksug.ai/sb)
+- 🚀 <a href="https://ksug.ai/sb" target="_blank">Get Bundle</a>
 
 </td>
 </tr>
@@ -51,11 +51,11 @@
 
 | Bundle | Link |
 |--------|------|
-| Kubestronaut Bundle | [→ Get Bundle](http://kb.ksug.ai) |
-| Golden Kubestronaut | [→ Get Bundle](http://gk.ksug.ai) |
-| Kubestronaut to Golden Upgrade | [→ Get Bundle](http://gk.ksug.ai) |
-| CKA to Kubestronaut Upgrade | [→ Get Bundle](http://gk.ksug.ai) |
-| CKAD to Kubestronaut Upgrade | [→ Get Bundle](http://gk.ksug.ai) |
+| Kubestronaut Bundle | <a href="http://kb.ksug.ai" target="_blank">→ Get Bundle</a> |
+| Golden Kubestronaut | <a href="http://gk.ksug.ai" target="_blank">→ Get Bundle</a> |
+| Kubestronaut to Golden Upgrade | <a href="http://gk.ksug.ai" target="_blank">→ Get Bundle</a> |
+| CKA to Kubestronaut Upgrade | <a href="http://gk.ksug.ai" target="_blank">→ Get Bundle</a> |
+| CKAD to Kubestronaut Upgrade | <a href="http://gk.ksug.ai" target="_blank">→ Get Bundle</a> |
 
 </details>
 
@@ -66,17 +66,17 @@
 
 | Bundle | Link |
 |--------|------|
-| KCSA + CKS | [→ Get Bundle](http://sacks.ksug.ai) |
-| KCSA + KCNA | [→ Get Bundle](http://nasa.ksug.ai) |
-| CKA + CKAD | [→ Get Bundle](http://ckaad.ksug.ai) |
-| CKA + CKS | [→ Get Bundle](http://ckas.ksug.ai) |
-| CKA + KCNA | [→ Get Bundle](http://nacka.ksug.ai) |
-| CKA + CKAD + CKS | [→ Get Bundle](http://ckads.ksug.ai) |
-| ICA + LFS245 | [→ Get Bundle](http://ica.ksug.ai) |
-| CAPA + LFS256 | [→ Get Bundle](http://capa.ksug.ai) |
-| LFCA + KCNA | [→ Get Bundle](http://lfca.ksug.ai) |
-| LFCA + LFS200 | [→ Get Bundle](http://lfca.ksug.ai) |
-| PCA + LFS241 | [→ Get Bundle](https://pca.ksug.ai) |
+| KCSA + CKS | <a href="http://sacks.ksug.ai" target="_blank">→ Get Bundle</a> |
+| KCSA + KCNA | <a href="http://nasa.ksug.ai" target="_blank">→ Get Bundle</a> |
+| CKA + CKAD | <a href="http://ckaad.ksug.ai" target="_blank">→ Get Bundle</a> |
+| CKA + CKS | <a href="http://ckas.ksug.ai" target="_blank">→ Get Bundle</a> |
+| CKA + KCNA | <a href="http://nacka.ksug.ai" target="_blank">→ Get Bundle</a> |
+| CKA + CKAD + CKS | <a href="http://ckads.ksug.ai" target="_blank">→ Get Bundle</a> |
+| ICA + LFS245 | <a href="http://ica.ksug.ai" target="_blank">→ Get Bundle</a> |
+| CAPA + LFS256 | <a href="http://capa.ksug.ai" target="_blank">→ Get Bundle</a> |
+| LFCA + KCNA | <a href="http://lfca.ksug.ai" target="_blank">→ Get Bundle</a> |
+| LFCA + LFS200 | <a href="http://lfca.ksug.ai" target="_blank">→ Get Bundle</a> |
+| PCA + LFS241 | <a href="https://pca.ksug.ai" target="_blank">→ Get Bundle</a> |
 
 </details>
 
@@ -87,22 +87,22 @@
 
 | Certification | Link |
 |---------------|------|
-| 🔵 Certified Kubernetes Administrator (CKA) | [→ Enroll](https://cka.ksug.ai) |
-| 🔵 Certified Kubernetes Application Developer (CKAD) | [→ Enroll](https://ckad.ksug.ai) |
-| 🔵 Certified Kubernetes Security Specialist (CKS) | [→ Enroll](https://cks.ksug.ai) |
-| 🟢 Kubernetes and Cloud Native Associate (KCNA) | [→ Enroll](https://kcna.ksug.ai) |
-| 🟢 Kubernetes and Cloud Native Security Associate (KCSA) | [→ Enroll](https://kcsa.ksug.ai) |
-| 🟡 Prometheus Certified Associate (PCA) | [→ Enroll](https://pca.ksug.ai) |
-| 🟡 Istio Certified Associate (ICA) | [→ Enroll](https://ica.ksug.ai) |
-| 🟡 Certified Argo Project Associate (CAPA) | [→ Enroll](https://capa.ksug.ai) |
-| 🟡 Certified GitOps Associate (CGOA) | [→ Enroll](https://cgoa.ksug.ai) |
-| 🟡 Cilium Certified Associate (CCA) | [→ Enroll](https://cca.ksug.ai) |
-| 🟡 Certified Backstage Associate (CBA) | [→ Enroll](https://cba.ksug.ai) |
-| 🟡 OpenTelemetry Certified Associate (OTCA) | [→ Enroll](https://otca.ksug.ai) |
-| 🟡 Kyverno Certified Associate (KCA) | [→ Enroll](https://kca.ksug.ai) |
-| 🔴 Linux Foundation Certified System Administrator (LFCS) | [→ Enroll](https://lfcs.ksug.ai) |
-| 🟣 Certified Cloud Native Platform Engineering Associate (CNPA) | [→ Enroll](https://cnpa.ksug.ai) |
-| 🟣 Certified Cloud Native Platform Engineer (CNPE) | [→ Enroll](https://cnpe.ksug.ai) |
+| 🔵 Certified Kubernetes Administrator (CKA) | <a href="https://cka.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔵 Certified Kubernetes Application Developer (CKAD) | <a href="https://ckad.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔵 Certified Kubernetes Security Specialist (CKS) | <a href="https://cks.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟢 Kubernetes and Cloud Native Associate (KCNA) | <a href="https://kcna.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟢 Kubernetes and Cloud Native Security Associate (KCSA) | <a href="https://kcsa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Prometheus Certified Associate (PCA) | <a href="https://pca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Istio Certified Associate (ICA) | <a href="https://ica.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Certified Argo Project Associate (CAPA) | <a href="https://capa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Certified GitOps Associate (CGOA) | <a href="https://cgoa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Cilium Certified Associate (CCA) | <a href="https://cca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Certified Backstage Associate (CBA) | <a href="https://cba.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 OpenTelemetry Certified Associate (OTCA) | <a href="https://otca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Kyverno Certified Associate (KCA) | <a href="https://kca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔴 Linux Foundation Certified System Administrator (LFCS) | <a href="https://lfcs.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟣 Certified Cloud Native Platform Engineering Associate (CNPA) | <a href="https://cnpa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟣 Certified Cloud Native Platform Engineer (CNPE) | <a href="https://cnpe.ksug.ai" target="_blank">→ Enroll</a> |
 
 </details>
 
@@ -114,7 +114,7 @@
 
 <div align="center">
 
-[![Register Now](https://img.shields.io/badge/Register_Now-KubeCon_Europe-326CE5?style=for-the-badge&logo=kubernetes)](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/)
+<a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/" target="_blank"><img src="https://img.shields.io/badge/Register_Now-KubeCon_Europe-326CE5?style=for-the-badge&logo=kubernetes" alt="Register Now"/></a>
 
 </div>
 
@@ -132,7 +132,7 @@
 > **30% OFF** any Linux Foundation certification, bundle, or training • No expiration
 
 **How to redeem:**
-1. [Browse catalog](https://lf.ksug.ai)
+1. <a href="https://lf.ksug.ai" target="_blank">Browse catalog</a>
 2. Apply code: **`30K8SUG`**
 3. Complete purchase ✓
 
@@ -143,62 +143,62 @@
 ### Popular Certifications
 
 **🔵 Kubernetes Track**
-- [CKA](https://cka.ksug.ai) • [CKAD](https://ckad.ksug.ai) • [CKS](https://cks.ksug.ai) • [KCNA](https://kcna.ksug.ai) • [KCSA](https://kcsa.ksug.ai)
+- <a href="https://cka.ksug.ai" target="_blank">CKA</a> • <a href="https://ckad.ksug.ai" target="_blank">CKAD</a> • <a href="https://cks.ksug.ai" target="_blank">CKS</a> • <a href="https://kcna.ksug.ai" target="_blank">KCNA</a> • <a href="https://kcsa.ksug.ai" target="_blank">KCSA</a>
 
 **🟡 Cloud Native Tools**
-- [PCA](https://pca.ksug.ai) • [ICA](https://ica.ksug.ai) • [CAPA](https://capa.ksug.ai) • [CGOA](https://cgoa.ksug.ai) • [CCA](https://cca.ksug.ai) • [CBA](https://cba.ksug.ai) • [OTCA](https://otca.ksug.ai) • [KCA](https://kca.ksug.ai)
+- <a href="https://pca.ksug.ai" target="_blank">PCA</a> • <a href="https://ica.ksug.ai" target="_blank">ICA</a> • <a href="https://capa.ksug.ai" target="_blank">CAPA</a> • <a href="https://cgoa.ksug.ai" target="_blank">CGOA</a> • <a href="https://cca.ksug.ai" target="_blank">CCA</a> • <a href="https://cba.ksug.ai" target="_blank">CBA</a> • <a href="https://otca.ksug.ai" target="_blank">OTCA</a> • <a href="https://kca.ksug.ai" target="_blank">KCA</a>
 
 **🔴 Linux Foundation**
-- [LFCS](https://lfcs.ksug.ai)
+- <a href="https://lfcs.ksug.ai" target="_blank">LFCS</a>
 
 **🟣 Platform Engineering**
-- [CNPA](https://cnpa.ksug.ai) • [CNPE](https://cnpe.ksug.ai)
+- <a href="https://cnpa.ksug.ai" target="_blank">CNPA</a> • <a href="https://cnpe.ksug.ai" target="_blank">CNPE</a>
 
 ### Popular Bundles
 
 **🏆 Elite Bundles**
-- [Kubestronaut](http://kb.ksug.ai) • [Golden Kubestronaut](http://gk.ksug.ai)
+- <a href="http://kb.ksug.ai" target="_blank">Kubestronaut</a> • <a href="http://gk.ksug.ai" target="_blank">Golden Kubestronaut</a>
 
 **📦 Combo Deals**
-- [CKA + CKAD + CKS](http://ckads.ksug.ai) • [CKA + CKAD](http://ckaad.ksug.ai) • [CKA + CKS](http://ckas.ksug.ai) • [CKA + KCNA](http://nacka.ksug.ai)
-- [KCSA + CKS](http://sacks.ksug.ai) • [KCSA + KCNA](http://nasa.ksug.ai) • [ICA + LFS245](http://ica.ksug.ai) • [CAPA + LFS256](http://capa.ksug.ai)
-- [LFCA + KCNA](http://lfca.ksug.ai) • [LFCA + LFS200](http://lfca.ksug.ai) • [PCA + LFS241](https://pca.ksug.ai)
+- <a href="http://ckads.ksug.ai" target="_blank">CKA + CKAD + CKS</a> • <a href="http://ckaad.ksug.ai" target="_blank">CKA + CKAD</a> • <a href="http://ckas.ksug.ai" target="_blank">CKA + CKS</a> • <a href="http://nacka.ksug.ai" target="_blank">CKA + KCNA</a>
+- <a href="http://sacks.ksug.ai" target="_blank">KCSA + CKS</a> • <a href="http://nasa.ksug.ai" target="_blank">KCSA + KCNA</a> • <a href="http://ica.ksug.ai" target="_blank">ICA + LFS245</a> • <a href="http://capa.ksug.ai" target="_blank">CAPA + LFS256</a>
+- <a href="http://lfca.ksug.ai" target="_blank">LFCA + KCNA</a> • <a href="http://lfca.ksug.ai" target="_blank">LFCA + LFS200</a> • <a href="https://pca.ksug.ai" target="_blank">PCA + LFS241</a>
 
 ---
 
 ## 🌐 Resources
 
-[![Learning Resources](https://img.shields.io/badge/📖_Learning-Resources-orange?style=flat-square)](https://ksug.ai/resources/?ref=github)
+<a href="https://ksug.ai/resources/?ref=github" target="_blank"><img src="https://img.shields.io/badge/📖_Learning-Resources-orange?style=flat-square" alt="Learning Resources"/></a>
 
 ---
 
 <div align="center">
 
-## 🌍 Join [KSUG.AI](https://ksug.ai/?ref=github) Community
+## 🌍 Join <a href="https://ksug.ai/?ref=github" target="_blank">KSUG.AI</a> Community
 
-[![Website](https://img.shields.io/badge/🌐_Website-ksug.ai-blue?style=flat-square)](https://ksug.ai/save/?ref=github)
-[![Linktree](https://img.shields.io/badge/🔗_All_Links-linktr.ee-green?style=flat-square)](https://linktr.ee/ksug.ai)
-[![Meetup](https://img.shields.io/badge/📍_Meetup-31K+_Members-red?style=flat-square)](https://www.meetup.com/pro/yongkang)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-19K+_Followers-0077B5?style=flat-square)](https://linkedin.com/company/95053109)
-[![Newsletter](https://img.shields.io/badge/📧_Newsletter-14K+_Subscribers-orange?style=flat-square)](https://www.linkedin.com/newsletters/k8sug-newsletter-7284165390442622976/)
-[![Discord](https://img.shields.io/badge/💬_Discord-Join_Chat-5865F2?style=flat-square)](https://discord.com/invite/Rp9WzYyKua)
+<a href="https://ksug.ai/save/?ref=github" target="_blank"><img src="https://img.shields.io/badge/🌐_Website-ksug.ai-blue?style=flat-square" alt="Website"/></a>
+<a href="https://linktr.ee/ksug.ai" target="_blank"><img src="https://img.shields.io/badge/🔗_All_Links-linktr.ee-green?style=flat-square" alt="Linktree"/></a>
+<a href="https://www.meetup.com/pro/yongkang" target="_blank"><img src="https://img.shields.io/badge/📍_Meetup-31K+_Members-red?style=flat-square" alt="Meetup"/></a>
+<a href="https://linkedin.com/company/95053109" target="_blank"><img src="https://img.shields.io/badge/💼_LinkedIn-19K+_Followers-0077B5?style=flat-square" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/newsletters/k8sug-newsletter-7284165390442622976/" target="_blank"><img src="https://img.shields.io/badge/📧_Newsletter-14K+_Subscribers-orange?style=flat-square" alt="Newsletter"/></a>
+<a href="https://discord.com/invite/Rp9WzYyKua" target="_blank"><img src="https://img.shields.io/badge/💬_Discord-Join_Chat-5865F2?style=flat-square" alt="Discord"/></a>
 
 ### Community Stats
 
-🔗 [Founder LinkedIn](https://linkedin.com/in/yongkanghe) • 52K+ followers  
-💪 [kubestrong](https://linkedin.com/company/kubestrong) • 35K+ followers  
-☁️ [awstronaut](https://linkedin.com/company/awstronaut) • 15K+ followers  
-💬 [Discussion Group](https://www.linkedin.com/groups/13983251/) • 25K+ members
+🔗 <a href="https://linkedin.com/in/yongkanghe" target="_blank">Founder LinkedIn</a> • 52K+ followers  
+💪 <a href="https://linkedin.com/company/kubestrong" target="_blank">kubestrong</a> • 35K+ followers  
+☁️ <a href="https://linkedin.com/company/awstronaut" target="_blank">awstronaut</a> • 15K+ followers  
+💬 <a href="https://www.linkedin.com/groups/13983251/" target="_blank">Discussion Group</a> • 25K+ members
 
 ### Get Involved
 
 ✅ Attend technical deep dives & networking events  
-✅ Connect on [GitHub](https://github.com/ksug-ai) • [WhatsApp](https://chat.whatsapp.com/DMqtkzb3LvM20kN1IMZOW9) • [Telegram](https://t.me/+QsBjgoId34EzN2I1)  
+✅ Connect on <a href="https://github.com/ksug-ai" target="_blank">GitHub</a> • <a href="https://chat.whatsapp.com/DMqtkzb3LvM20kN1IMZOW9" target="_blank">WhatsApp</a> • <a href="https://t.me/+QsBjgoId34EzN2I1" target="_blank">Telegram</a>  
 ✅ Become a speaker, sponsor, or volunteer
 
 ---
 
-<a href="https://ksug.ai/save/?ref=github">
+<a href="https://ksug.ai/save/?ref=github" target="_blank">
   <img src="https://ksug.ai/assets/Logo-C22ZmRMJ.jpg" alt="KSUG.AI" width="200"/>
 </a>
 
