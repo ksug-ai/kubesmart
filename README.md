@@ -13,14 +13,14 @@
 
 ## 🎯 Active Promotions | [Get Notified!](https://ksug.ai/?notify&ref=github)
 
-> π Pi Day Sale • Ends Mar 18, 2026 • Up to 40% OFF • [Check latest promos!](https://ksug.ai/save/?ref=github)
+> 🛣️ Road to KubeCon EU Promo • Ends Mar 23 • 50% OFF • [Check latest promos!](https://r2k.ksug.ai/)
 
 <table>
 <tr>
 <td width="33%">
 
 #### 🔒 Cybersecurity Super Bundle
-**40% OFF** • Code: `PI26BUNAI`
+**50% OFF** • Code: `R2KUBEAI`
 
 - 🔐 [Get Bundle](https://ksug.ai/sb)
 
@@ -28,7 +28,7 @@
 <td width="33%">
 
 #### ☁️ Cloud Native Super Bundle
-**40% OFF** • Code: `PI26BUNAI`
+**50% OFF** • Code: `R2KUBEAI`
 
 - ☁️ [Get Bundle](https://ksug.ai/sb)
 
@@ -36,7 +36,7 @@
 <td width="34%">
 
 #### 👨‍💻 Cloud Native Developer Super Bundle
-**40% OFF** • Code: `PI26BUNAI`
+**50% OFF** • Code: `R2KUBEAI`
 
 - 🚀 [Get Bundle](https://ksug.ai/sb)
 
@@ -44,7 +44,7 @@
 </tr>
 </table>
 
-### 🌟 Kubestronaut Bundles • **40% OFF** • Code: `PI26BUNAI`
+### 🌟 Kubestronaut Bundles • **50% OFF** • Code: `R2KUBEAI`
 
 <details open>
 <summary><b>View All Kubestronaut Options (5 bundles)</b></summary>
@@ -59,7 +59,7 @@
 
 </details>
 
-### 📦 Bundle Deals • **40% OFF** • Code: `PI26BUNAI`
+### 📦 Bundle Deals • **50% OFF** • Code: `R2KUBEAI`
 
 <details open>
 <summary><b>View All Bundles (11 options)</b></summary>
@@ -80,7 +80,7 @@
 
 </details>
 
-### 🎓 Individual Certifications • **35% OFF** • Code: `PI26AI`
+### 🎓 Individual Certifications • **30% OFF** • Code: `30K8SUG`
 
 <details>
 <summary><b>View All Certifications (16 options)</b></summary>
