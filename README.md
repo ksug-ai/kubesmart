@@ -127,6 +127,40 @@
 
 ---
 
+## 🎪 FinOps X 2026
+
+> 📍 **San Diego, California** • 🗓️ **June 8-11** • 💰 **~17% OFF with code `KSAIX26`**
+
+*Discounts for end-user practitioners, NOT vendors.*
+
+| 🎟️ Pass Type | 💵 Original | 🎉 Discounted |
+|:-------------|------------:|-------------:|
+| 👤 End-User Practitioner | $1,199 | **$999** |
+
+<div align="center">
+
+<a href="https://x.finops.org/" target="_blank"><img src="https://img.shields.io/badge/Register_Now-FinOps_X_2026-00B4D8?style=for-the-badge" alt="Register Now"/></a>
+
+</div>
+
+---
+
+## 💰 FinOps Certifications • **20% OFF** • Code: `KSAI_20`
+
+<details open>
+<summary><b>View All FinOps Certifications (4 options)</b></summary>
+
+| Certification | Original | Discounted | Link |
+|---------------|----------|------------|------|
+| FinOps Certified Practitioner Self-Paced Course + Exam | $500 | **$400** | <a href="https://learn.finops.org/path/finops-certified-practitioner-self-paced" target="_blank">→ Enroll</a> |
+| FinOps Certified Engineer Self-Paced Course + Exam | $500 | **$400** | <a href="https://learn.finops.org/path/finops-certified-engineer" target="_blank">→ Enroll</a> |
+| FinOps Certified FOCUS Analyst Self-Paced Course + Exam | $400 | **$320** | <a href="https://learn.finops.org/finops-certified-focus-analyst-certification" target="_blank">→ Enroll</a> |
+| FinOps Certified: FinOps for AI Self-Paced Course + Exam | $500 | **$400** | <a href="https://learn.finops.org/path/certified-finops-for-ai" target="_blank">→ Enroll</a> |
+
+</details>
+
+---
+
 ## 🎁 Evergreen Offer
 
 > **30% OFF** any Linux Foundation certification, bundle, or training • No expiration
