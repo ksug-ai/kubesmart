@@ -13,14 +13,12 @@
 
 ## 🎯 Active Promotions | <a href="https://ksug.ai/?notify&ref=github" target="_blank">Get Notified!</a>
 
-> 🛣️ Road to KubeCon EU Promo • Ends Mar 23 • 50% OFF • <a href="https://r2k.ksug.ai/" target="_blank">Check latest promos!</a>
-
 <table>
 <tr>
 <td width="33%">
 
 #### 🔒 Cybersecurity Super Bundle
-**50% OFF** • Code: `R2KUBEAI`
+**30% OFF** • Code: `30K8SUG`
 
 - 🔐 <a href="https://ksug.ai/sb" target="_blank">Get Bundle</a>
 
@@ -28,7 +26,7 @@
 <td width="33%">
 
 #### ☁️ Cloud Native Super Bundle
-**50% OFF** • Code: `R2KUBEAI`
+**30% OFF** • Code: `30K8SUG`
 
 - ☁️ <a href="https://ksug.ai/sb" target="_blank">Get Bundle</a>
 
@@ -36,7 +34,7 @@
 <td width="34%">
 
 #### 👨‍💻 Cloud Native Developer Super Bundle
-**50% OFF** • Code: `R2KUBEAI`
+**30% OFF** • Code: `30K8SUG`
 
 - 🚀 <a href="https://ksug.ai/sb" target="_blank">Get Bundle</a>
 
@@ -44,7 +42,7 @@
 </tr>
 </table>
 
-### 🌟 Kubestronaut Bundles • **50% OFF** • Code: `R2KUBEAI`
+### 🌟 Kubestronaut Bundles • **30% OFF** • Code: `30K8SUG`
 
 <details open>
 <summary><b>View All Kubestronaut Options (5 bundles)</b></summary>
@@ -59,7 +57,7 @@
 
 </details>
 
-### 📦 Bundle Deals • **50% OFF** • Code: `R2KUBEAI`
+### 📦 Bundle Deals • **30% OFF** • Code: `30K8SUG`
 
 <details open>
 <summary><b>View All Bundles (11 options)</b></summary>
