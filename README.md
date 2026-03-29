@@ -106,6 +106,7 @@
 
 ---
 
+<!--
 ## 🎪 KubeCon + CloudNativeCon Europe 2026
 
 > 📍 **Amsterdam** • 🗓️ **March 23-26** • 💰 **20% OFF with code `KSAI20`**
@@ -122,6 +123,7 @@
 | 🏢 Corporate - Conference Only | $1,899 | **$1,519** |
 | 👤 Individual - All Access | $978 | **$782** |
 | 🏢 Corporate - All Access | $1,798 | **$1,438** |
+-->
 
 ---
 
