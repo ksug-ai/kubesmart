@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 <a href="https://lf.ksug.ai" target="_blank">Linux Foundation</a> Certification Deals
+# 🚀 <a href="https://lf.ksug.ai" target="_blank">Linux & FinOps Foundation</a> Certification Deals
 
 ### *Your Gateway to Cloud Native Excellence*
 
