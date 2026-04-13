@@ -127,13 +127,13 @@
 
 ## 🎪 FinOps X 2026
 
-> 📍 **San Diego, California** • 🗓️ **June 8-11** • 💰 **~17% OFF with code `KSAIX26`**
+> 📍 **San Diego, California** • 🗓️ **June 8-11** • 💰 **25% OFF with code `KSAIX26899`**
 
 *Discounts for end-user practitioners, NOT vendors.*
 
 | 🎟️ Pass Type | 💵 Original | 🎉 Discounted |
 |:-------------|------------:|-------------:|
-| 👤 End-User Practitioner | $1,199 | **$999** |
+| 👤 End-User Practitioner | $1,199 | **$899** |
 
 <div align="center">
 
