@@ -18,7 +18,7 @@
 <td width="33%">
 
 #### 🔒 Cybersecurity Super Bundle
-**35% OFF** • Code: ``
+**30% OFF** • Code: ``
 
 - 🔐 <a href="https://ksug.ai/sb" target="_blank">Get Bundle</a>
 
