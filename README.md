@@ -85,22 +85,22 @@
 
 | Certification | Discount | Code | Link |
 |---------------|----------|------|------|
-| 🔵 Certified Kubernetes Administrator (CKA) | **50% OFF** | `30K8SUG` | <a href="https://cka.ksug.ai" target="_blank">→ Enroll</a> |
-| 🔵 Certified Kubernetes Application Developer (CKAD) | **50% OFF** | `30K8SUG` | <a href="https://ckad.ksug.ai" target="_blank">→ Enroll</a> |
-| 🔵 Certified Kubernetes Security Specialist (CKS) | **50% OFF** | `30K8SUG` | <a href="https://cks.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟢 Kubernetes and Cloud Native Associate (KCNA) | **50% OFF** | `30K8SUG` | <a href="https://kcna.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟢 Kubernetes and Cloud Native Security Associate (KCSA) | **50% OFF** | `30K8SUG` | <a href="https://kcsa.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Prometheus Certified Associate (PCA) | **50% OFF** | `30K8SUG` | <a href="https://pca.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Istio Certified Associate (ICA) | **50% OFF** | `30K8SUG` | <a href="https://ica.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Certified Argo Project Associate (CAPA) | **50% OFF** | `30K8SUG` | <a href="https://capa.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Certified GitOps Associate (CGOA) | **50% OFF** | `30K8SUG` | <a href="https://cgoa.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Cilium Certified Associate (CCA) | **50% OFF** | `30K8SUG` | <a href="https://cca.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Certified Backstage Associate (CBA) | **50% OFF** | `30K8SUG` | <a href="https://cba.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 OpenTelemetry Certified Associate (OTCA) | **50% OFF** | `30K8SUG` | <a href="https://otca.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Kyverno Certified Associate (KCA) | **50% OFF** | `30K8SUG` | <a href="https://kca.ksug.ai" target="_blank">→ Enroll</a> |
-| 🔴 Linux Foundation Certified System Administrator (LFCS) | **50% OFF** | `30K8SUG` | <a href="https://lfcs.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟣 Certified Cloud Native Platform Engineering Associate (CNPA) | **50% OFF** | `30K8SUG` | <a href="https://cnpa.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟣 Certified Cloud Native Platform Engineer (CNPE) | **50% OFF** | `30K8SUG` | <a href="https://cnpe.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔵 Certified Kubernetes Administrator (CKA) | **30% OFF** | `30K8SUG` | <a href="https://cka.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔵 Certified Kubernetes Application Developer (CKAD) | **30% OFF** | `30K8SUG` | <a href="https://ckad.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔵 Certified Kubernetes Security Specialist (CKS) | **30% OFF** | `30K8SUG` | <a href="https://cks.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟢 Kubernetes and Cloud Native Associate (KCNA) | **30% OFF** | `30K8SUG` | <a href="https://kcna.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟢 Kubernetes and Cloud Native Security Associate (KCSA) | **30% OFF** | `30K8SUG` | <a href="https://kcsa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Prometheus Certified Associate (PCA) | **30% OFF** | `30K8SUG` | <a href="https://pca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Istio Certified Associate (ICA) | **30% OFF** | `30K8SUG` | <a href="https://ica.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Certified Argo Project Associate (CAPA) | **30% OFF** | `30K8SUG` | <a href="https://capa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Certified GitOps Associate (CGOA) | **30% OFF** | `30K8SUG` | <a href="https://cgoa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Cilium Certified Associate (CCA) | **30% OFF** | `30K8SUG` | <a href="https://cca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Certified Backstage Associate (CBA) | **30% OFF** | `30K8SUG` | <a href="https://cba.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 OpenTelemetry Certified Associate (OTCA) | **30% OFF** | `30K8SUG` | <a href="https://otca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Kyverno Certified Associate (KCA) | **30% OFF** | `30K8SUG` | <a href="https://kca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔴 Linux Foundation Certified System Administrator (LFCS) | **30% OFF** | `30K8SUG` | <a href="https://lfcs.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟣 Certified Cloud Native Platform Engineering Associate (CNPA) | **30% OFF** | `30K8SUG` | <a href="https://cnpa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟣 Certified Cloud Native Platform Engineer (CNPE) | **30% OFF** | `30K8SUG` | <a href="https://cnpe.ksug.ai" target="_blank">→ Enroll</a> |
 
 </details>
 
