@@ -18,7 +18,7 @@
 <td width="33%">
 
 #### 🔒 Cybersecurity Super Bundle
-**30% OFF** • Code: `30K8SUG`
+**40% OFF** • Code: `TECHTALENT26AI`
 
 - 🔐 <a href="https://ksug.ai/sb" target="_blank">Get Bundle</a>
 
@@ -26,7 +26,7 @@
 <td width="33%">
 
 #### ☁️ Cloud Native Super Bundle
-**30% OFF** • Code: `30K8SUG`
+**40% OFF** • Code: `TECHTALENT26AI`
 
 - ☁️ <a href="https://ksug.ai/sb" target="_blank">Get Bundle</a>
 
@@ -34,7 +34,7 @@
 <td width="34%">
 
 #### 👨‍💻 Cloud Native Developer Super Bundle
-**30% OFF** • Code: `30K8SUG`
+**40% OFF** • Code: `TECHTALENT26AI`
 
 - 🚀 <a href="https://ksug.ai/sb" target="_blank">Get Bundle</a>
 
@@ -42,7 +42,7 @@
 </tr>
 </table>
 
-### 🌟 Kubestronaut Bundles • **30% OFF** • Code: `30K8SUG`
+### 🌟 Kubestronaut Bundles • **40% OFF** • Code: `TECHTALENT26AI`
 
 <details open>
 <summary><b>View All Kubestronaut Options (5 bundles)</b></summary>
@@ -57,7 +57,7 @@
 
 </details>
 
-### 📦 Bundle Deals • **30% OFF** • Code: `30K8SUG`
+### 📦 Bundle Deals • **40% OFF** • Code: `TECHTALENT26AI`
 
 <details open>
 <summary><b>View All Bundles (11 options)</b></summary>
@@ -78,29 +78,29 @@
 
 </details>
 
-### 🎓 Individual Certifications • **30% OFF** • Code: `30K8SUG`
+### 🎓 Individual Certifications • **40% OFF** • Code: `TECHTALENT26AI`
 
 <details>
 <summary><b>View All Certifications (16 options)</b></summary>
 
 | Certification | Discount | Code | Link |
 |---------------|----------|------|------|
-| 🔵 Certified Kubernetes Administrator (CKA) | **30% OFF** | `30K8SUG` | <a href="https://cka.ksug.ai" target="_blank">→ Enroll</a> |
-| 🔵 Certified Kubernetes Application Developer (CKAD) | **30% OFF** | `30K8SUG` | <a href="https://ckad.ksug.ai" target="_blank">→ Enroll</a> |
-| 🔵 Certified Kubernetes Security Specialist (CKS) | **30% OFF** | `30K8SUG` | <a href="https://cks.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟢 Kubernetes and Cloud Native Associate (KCNA) | **30% OFF** | `30K8SUG` | <a href="https://kcna.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟢 Kubernetes and Cloud Native Security Associate (KCSA) | **30% OFF** | `30K8SUG` | <a href="https://kcsa.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Prometheus Certified Associate (PCA) | **30% OFF** | `30K8SUG` | <a href="https://pca.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Istio Certified Associate (ICA) | **30% OFF** | `30K8SUG` | <a href="https://ica.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Certified Argo Project Associate (CAPA) | **30% OFF** | `30K8SUG` | <a href="https://capa.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Certified GitOps Associate (CGOA) | **30% OFF** | `30K8SUG` | <a href="https://cgoa.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Cilium Certified Associate (CCA) | **30% OFF** | `30K8SUG` | <a href="https://cca.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Certified Backstage Associate (CBA) | **30% OFF** | `30K8SUG` | <a href="https://cba.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 OpenTelemetry Certified Associate (OTCA) | **30% OFF** | `30K8SUG` | <a href="https://otca.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Kyverno Certified Associate (KCA) | **30% OFF** | `30K8SUG` | <a href="https://kca.ksug.ai" target="_blank">→ Enroll</a> |
-| 🔴 Linux Foundation Certified System Administrator (LFCS) | **30% OFF** | `30K8SUG` | <a href="https://lfcs.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟣 Certified Cloud Native Platform Engineering Associate (CNPA) | **30% OFF** | `30K8SUG` | <a href="https://cnpa.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟣 Certified Cloud Native Platform Engineer (CNPE) | **30% OFF** | `30K8SUG` | <a href="https://cnpe.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔵 Certified Kubernetes Administrator (CKA) | **40% OFF** | `TECHTALENT26AI` | <a href="https://cka.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔵 Certified Kubernetes Application Developer (CKAD) | **40% OFF** | `TECHTALENT26AI` | <a href="https://ckad.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔵 Certified Kubernetes Security Specialist (CKS) | **40% OFF** | `TECHTALENT26AI` | <a href="https://cks.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟢 Kubernetes and Cloud Native Associate (KCNA) | **40% OFF** | `TECHTALENT26AI` | <a href="https://kcna.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟢 Kubernetes and Cloud Native Security Associate (KCSA) | **40% OFF** | `TECHTALENT26AI` | <a href="https://kcsa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Prometheus Certified Associate (PCA) | **40% OFF** | `TECHTALENT26AI` | <a href="https://pca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Istio Certified Associate (ICA) | **40% OFF** | `TECHTALENT26AI` | <a href="https://ica.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Certified Argo Project Associate (CAPA) | **40% OFF** | `TECHTALENT26AI` | <a href="https://capa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Certified GitOps Associate (CGOA) | **40% OFF** | `TECHTALENT26AI` | <a href="https://cgoa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Cilium Certified Associate (CCA) | **40% OFF** | `TECHTALENT26AI` | <a href="https://cca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Certified Backstage Associate (CBA) | **40% OFF** | `TECHTALENT26AI` | <a href="https://cba.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 OpenTelemetry Certified Associate (OTCA) | **40% OFF** | `TECHTALENT26AI` | <a href="https://otca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Kyverno Certified Associate (KCA) | **40% OFF** | `TECHTALENT26AI` | <a href="https://kca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔴 Linux Foundation Certified System Administrator (LFCS) | **40% OFF** | `TECHTALENT26AI` | <a href="https://lfcs.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟣 Certified Cloud Native Platform Engineering Associate (CNPA) | **40% OFF** | `TECHTALENT26AI` | <a href="https://cnpa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟣 Certified Cloud Native Platform Engineer (CNPE) | **40% OFF** | `TECHTALENT26AI` | <a href="https://cnpe.ksug.ai" target="_blank">→ Enroll</a> |
 
 </details>
 
@@ -125,19 +125,17 @@
 
 ---
 
-## 🎪 FinOps X 2026
+## 🎪 KubeCon + CloudNativeCon India 2026
 
-> 📍 **San Diego, California** • 🗓️ **June 8-11** • 💰 **25% OFF with code `KSAIX26899`**
-
-*Discounts for end-user practitioners, NOT vendors.*
+> 📍 **Mumbai, India** • 🗓️ **June 18-19** • 💰 **30% OFF with code `KSAI_70`**
 
 | 🎟️ Pass Type | 💵 Original | 🎉 Discounted |
 |:-------------|------------:|-------------:|
-| 👤 End-User Practitioner | $1,199 | **$899** |
+| 👤 Individual | ₹8,800 | **₹6,200** |
 
 <div align="center">
 
-<a href="https://x.finops.org/" target="_blank"><img src="https://img.shields.io/badge/Register_Now-FinOps_X_2026-00B4D8?style=for-the-badge" alt="Register Now"/></a>
+<a href="https://ksug.ai/discount?tab=events&amp;ref=github" target="_blank"><img src="https://img.shields.io/badge/Register_Now-KubeCon_India-326CE5?style=for-the-badge&logo=kubernetes" alt="Register Now"/></a>
 
 </div>
 
@@ -146,14 +144,16 @@
 ## 💰 FinOps Certifications • **20% OFF** • Code: `KSAI_20`
 
 <details open>
-<summary><b>View All FinOps Certifications (4 options)</b></summary>
+<summary><b>View All FinOps Certifications (6 options)</b></summary>
 
 | Certification | Original | Discounted | Link |
 |---------------|----------|------------|------|
-| FinOps Certified Practitioner Self-Paced Course + Exam | $500 | **$400** | <a href="https://learn.finops.org/path/finops-certified-practitioner-self-paced" target="_blank">→ Enroll</a> |
-| FinOps Certified Engineer Self-Paced Course + Exam | $500 | **$400** | <a href="https://learn.finops.org/path/finops-certified-engineer" target="_blank">→ Enroll</a> |
-| FinOps Certified FOCUS Analyst Self-Paced Course + Exam | $400 | **$320** | <a href="https://learn.finops.org/finops-certified-focus-analyst-certification" target="_blank">→ Enroll</a> |
-| FinOps Certified: FinOps for AI Self-Paced Course + Exam | $500 | **$400** | <a href="https://learn.finops.org/path/certified-finops-for-ai" target="_blank">→ Enroll</a> |
+| FinOps Certified Practitioner Self-Paced Course + Exam | $500 | **$400** | <a href="https://ksug.ai/discount?tab=finops&amp;ref=github" target="_blank">→ Enroll</a> |
+| FinOps Certified Engineer Self-Paced Course + Exam | $500 | **$400** | <a href="https://ksug.ai/discount?tab=finops&amp;ref=github" target="_blank">→ Enroll</a> |
+| FinOps Certified FOCUS Analyst Self-Paced Course + Exam | $400 | **$320** | <a href="https://ksug.ai/discount?tab=finops&amp;ref=github" target="_blank">→ Enroll</a> |
+| FinOps Certified: AI Value Self-Paced Course + Exam | $500 | **$400** | <a href="https://ksug.ai/discount?tab=finops&amp;ref=github" target="_blank">→ Enroll</a> |
+| FinOps Certified: Technology Value Self-Paced Course + Exam | $500 | **$400** | <a href="https://ksug.ai/discount?tab=finops&amp;ref=github" target="_blank">→ Enroll</a> |
+| FinOps Certified: FinOps for AI Self-Paced Course + Exam | $500 | **$400** | <a href="https://ksug.ai/discount?tab=finops&amp;ref=github" target="_blank">→ Enroll</a> |
 
 </details>
 
@@ -217,10 +217,11 @@
 
 ### Community Stats
 
-🔗 <a href="https://linkedin.com/in/yongkanghe" target="_blank">Founder LinkedIn</a> • 52K+ followers  
-💪 <a href="https://linkedin.com/company/kubestrong" target="_blank">kubestrong</a> • 35K+ followers  
-☁️ <a href="https://linkedin.com/company/awstronaut" target="_blank">awstronaut</a> • 15K+ followers  
-💬 <a href="https://www.linkedin.com/groups/13983251/" target="_blank">Discussion Group</a> • 25K+ members
+🔗 <a href="https://linkedin.com/in/yongkanghe" target="_blank">Founder LinkedIn</a> • 53K+ followers  
+💪 <a href="https://linkedin.com/company/kubestrong" target="_blank">kubestrong</a> • 36K+ followers  
+☁️ <a href="https://linkedin.com/company/awstronaut" target="_blank">awstronaut</a> • 16K+ followers  
+💬 <a href="https://www.linkedin.com/groups/12376235/" target="_blank">CCSG Group</a> • 33K+ members<br>
+💬 <a href="https://www.linkedin.com/groups/13983251/" target="_blank">CNAG Group</a> • 25K+ members
 
 ### Get Involved
 
