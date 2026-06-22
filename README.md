@@ -135,22 +135,6 @@
 
 ---
 
-## 🎪 KubeCon + CloudNativeCon India 2026
-
-> 📍 **Mumbai, India** • 🗓️ **June 18-19** • 💰 **30% OFF with code `KSAI_70`**
-
-| 🎟️ Pass Type | 💵 Original | 🎉 Discounted |
-|:-------------|------------:|-------------:|
-| 👤 Individual | ₹8,800 | **₹6,200** |
-
-<div align="center">
-
-<a href="https://ksug.ai/discount?tab=events&amp;ref=github" target="_blank"><img src="https://img.shields.io/badge/Register_Now-KubeCon_India-326CE5?style=for-the-badge&logo=kubernetes" alt="Register Now"/></a>
-
-</div>
-
----
-
 ## 💰 FinOps Certifications • **20% OFF** • Code: `KSAI_20`
 
 <details open>
