@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Active Promotions | <a href="https://ksug.ai/?notify&ref=github" target="_blank">Get Notified!</a>
+## 🎯 Active Promotions (Updated July 2026) | <a href="https://ksug.ai/?notify&ref=github" target="_blank">Get Notified!</a>
 
 ### 🏅 Score Big Now • The Second Half Starts Now • Train Like Champions!
 
