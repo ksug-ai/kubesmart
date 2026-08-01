@@ -203,11 +203,12 @@
 
 ### Community Stats
 
-🔗 <a href="https://linkedin.com/in/yongkanghe" target="_blank">Founder LinkedIn</a> • 53K+ followers  
-💪 <a href="https://linkedin.com/company/kubestrong" target="_blank">kubestrong</a> • 36K+ followers  
+🔗 <a href="https://linkedin.com/in/yongkanghe" target="_blank">Founder LinkedIn</a> • 55K+ followers  
+💪 <a href="https://linkedin.com/company/kubestrong" target="_blank">kubestrong</a> • 37K+ followers  
 ☁️ <a href="https://linkedin.com/company/awstronaut" target="_blank">awstronaut</a> • 16K+ followers  
 💬 <a href="https://www.linkedin.com/groups/12376235/" target="_blank">CCSG Group</a> • 33K+ members<br>
-💬 <a href="https://www.linkedin.com/groups/13983251/" target="_blank">CNAG Group</a> • 25K+ members
+💬 <a href="https://www.linkedin.com/groups/13983251/" target="_blank">CNAG Group</a> • 25K+ members<br>
+💬 <a href="https://www.linkedin.com/groups/ksug/" target="_blank">KSUG.AI Community</a> • 21K+ members
 
 ### Get Involved
 
