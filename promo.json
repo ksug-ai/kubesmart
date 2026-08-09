@@ -1,0 +1,14 @@
+{
+  "updated_date": "August 2026",
+  "is_promo_active": false,
+  "promo_banner_text": "### ☀️ Summer Special Promo • Save Up to 40% OFF • Offer Ends August 8!",
+  "default_discount": "30% OFF",
+  "default_code": "30K8SUG",
+  "section_discounts": {
+    "super_bundles": "30% OFF",
+    "kubestronaut": "30% OFF",
+    "bundles": "30% OFF",
+    "individual": "30% OFF"
+  },
+  "overrides": {}
+}

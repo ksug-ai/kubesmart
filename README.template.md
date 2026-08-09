@@ -11,14 +11,14 @@
 
 ---
 
-## 🎯 Active Promotions (Updated August 2026) | <a href="https://ksug.ai/?notify&ref=github" target="_blank">Get Notified!</a>
+## 🎯 Active Promotions{{UPDATED_DATE_HEADER}} | <a href="https://ksug.ai/?notify&ref=github" target="_blank">Get Notified!</a>
 
-<table>
+{{ACTIVE_PROMO_BANNER}}<table>
 <tr>
 <td width="33%">
 
 #### 🔒 Cybersecurity Super Bundle
-**30% OFF** • Code: `30K8SUG`
+**{{CYBER_DISCOUNT}}** • Code: `{{CYBER_CODE}}`
 
 - 🔐 <a href="https://ksug.ai/sb" target="_blank">Get Bundle</a>
 
@@ -26,7 +26,7 @@
 <td width="33%">
 
 #### ☁️ Cloud Native Super Bundle
-**30% OFF** • Code: `30K8SUG`
+**{{CLOUD_DISCOUNT}}** • Code: `{{CLOUD_CODE}}`
 
 - ☁️ <a href="https://ksug.ai/sb" target="_blank">Get Bundle</a>
 
@@ -34,7 +34,7 @@
 <td width="34%">
 
 #### 👨‍💻 Cloud Native Developer Super Bundle
-**30% OFF** • Code: `30K8SUG`
+**{{DEV_DISCOUNT}}** • Code: `{{DEV_CODE}}`
 
 - 🚀 <a href="https://ksug.ai/sb" target="_blank">Get Bundle</a>
 
@@ -42,65 +42,65 @@
 </tr>
 </table>
 
-### 🌟 Kubestronaut Bundles • **30% OFF** • Code: `30K8SUG`
+### 🌟 Kubestronaut Bundles • **{{KUBESTRONAUT_SECTION_DISCOUNT}}**{{KUBESTRONAUT_SECTION_CODE_TEXT}}
 
 <details open>
 <summary><b>View All Kubestronaut Options (5 bundles)</b></summary>
 
 | Bundle | Discount | Code | Link |
 |--------|----------|------|------|
-| Kubestronaut Bundle | **30% OFF** | `30K8SUG` | <a href="http://kb.ksug.ai" target="_blank">→ Get Bundle</a> |
-| Golden Kubestronaut | **30% OFF** | `30K8SUG` | <a href="http://gk.ksug.ai" target="_blank">→ Get Bundle</a> |
-| Kubestronaut to Golden Upgrade | **30% OFF** | `30K8SUG` | <a href="http://gk.ksug.ai" target="_blank">→ Get Bundle</a> |
-| CKA to Kubestronaut Upgrade | **30% OFF** | `30K8SUG` | <a href="http://gk.ksug.ai" target="_blank">→ Get Bundle</a> |
-| CKAD to Kubestronaut Upgrade | **30% OFF** | `30K8SUG` | <a href="http://gk.ksug.ai" target="_blank">→ Get Bundle</a> |
+| Kubestronaut Bundle | **{{KB_DISCOUNT}}** | `{{KB_CODE}}` | <a href="http://kb.ksug.ai" target="_blank">→ Get Bundle</a> |
+| Golden Kubestronaut | **{{GK_DISCOUNT}}** | `{{GK_CODE}}` | <a href="http://gk.ksug.ai" target="_blank">→ Get Bundle</a> |
+| Kubestronaut to Golden Upgrade | **{{KGU_DISCOUNT}}** | `{{KGU_CODE}}` | <a href="http://gk.ksug.ai" target="_blank">→ Get Bundle</a> |
+| CKA to Kubestronaut Upgrade | **{{CKAU_DISCOUNT}}** | `{{CKAU_CODE}}` | <a href="http://gk.ksug.ai" target="_blank">→ Get Bundle</a> |
+| CKAD to Kubestronaut Upgrade | **{{CKADU_DISCOUNT}}** | `{{CKADU_CODE}}` | <a href="http://gk.ksug.ai" target="_blank">→ Get Bundle</a> |
 
 </details>
 
-### 📦 Bundle Deals • **30% OFF** • Code: `30K8SUG`
+### 📦 Bundle Deals • **{{BUNDLE_SECTION_DISCOUNT}}**{{BUNDLE_SECTION_CODE_TEXT}}
 
 <details open>
 <summary><b>View All Bundles (11 options)</b></summary>
 
 | Bundle | Discount | Code | Link |
 |--------|----------|------|------|
-| KCSA + CKS | **30% OFF** | `30K8SUG` | <a href="http://sacks.ksug.ai" target="_blank">→ Get Bundle</a> |
-| KCSA + KCNA | **30% OFF** | `30K8SUG` | <a href="http://nasa.ksug.ai" target="_blank">→ Get Bundle</a> |
-| CKA + CKAD | **30% OFF** | `30K8SUG` | <a href="http://ckaad.ksug.ai" target="_blank">→ Get Bundle</a> |
-| CKA + CKS | **30% OFF** | `30K8SUG` | <a href="http://ckas.ksug.ai" target="_blank">→ Get Bundle</a> |
-| CKA + KCNA | **30% OFF** | `30K8SUG` | <a href="http://nacka.ksug.ai" target="_blank">→ Get Bundle</a> |
-| CKA + CKAD + CKS | **30% OFF** | `30K8SUG` | <a href="http://ckads.ksug.ai" target="_blank">→ Get Bundle</a> |
-| ICA + LFS245 | **30% OFF** | `30K8SUG` | <a href="http://ica.ksug.ai" target="_blank">→ Get Bundle</a> |
-| CAPA + LFS256 | **30% OFF** | `30K8SUG` | <a href="http://capa.ksug.ai" target="_blank">→ Get Bundle</a> |
-| LFCA + KCNA | **30% OFF** | `30K8SUG` | <a href="http://lfca.ksug.ai" target="_blank">→ Get Bundle</a> |
-| LFCA + LFS200 | **30% OFF** | `30K8SUG` | <a href="http://lfca.ksug.ai" target="_blank">→ Get Bundle</a> |
-| PCA + LFS241 | **30% OFF** | `30K8SUG` | <a href="https://pca.ksug.ai" target="_blank">→ Get Bundle</a> |
+| KCSA + CKS | **{{SACKS_DISCOUNT}}** | `{{SACKS_CODE}}` | <a href="http://sacks.ksug.ai" target="_blank">→ Get Bundle</a> |
+| KCSA + KCNA | **{{NASA_DISCOUNT}}** | `{{NASA_CODE}}` | <a href="http://nasa.ksug.ai" target="_blank">→ Get Bundle</a> |
+| CKA + CKAD | **{{CKAAD_DISCOUNT}}** | `{{CKAAD_CODE}}` | <a href="http://ckaad.ksug.ai" target="_blank">→ Get Bundle</a> |
+| CKA + CKS | **{{CKAS_DISCOUNT}}** | `{{CKAS_CODE}}` | <a href="http://ckas.ksug.ai" target="_blank">→ Get Bundle</a> |
+| CKA + KCNA | **{{NACKA_DISCOUNT}}** | `{{NACKA_CODE}}` | <a href="http://nacka.ksug.ai" target="_blank">→ Get Bundle</a> |
+| CKA + CKAD + CKS | **{{CKADS_DISCOUNT}}** | `{{CKADS_CODE}}` | <a href="http://ckads.ksug.ai" target="_blank">→ Get Bundle</a> |
+| ICA + LFS245 | **{{ICA_DISCOUNT}}** | `{{ICA_CODE}}` | <a href="http://ica.ksug.ai" target="_blank">→ Get Bundle</a> |
+| CAPA + LFS256 | **{{CAPA_DISCOUNT}}** | `{{CAPA_CODE}}` | <a href="http://capa.ksug.ai" target="_blank">→ Get Bundle</a> |
+| LFCA + KCNA | **{{LFCA_KCNA_DISCOUNT}}** | `{{LFCA_KCNA_CODE}}` | <a href="http://lfca.ksug.ai" target="_blank">→ Get Bundle</a> |
+| LFCA + LFS200 | **{{LFCA_LFS200_DISCOUNT}}** | `{{LFCA_LFS200_CODE}}` | <a href="http://lfca.ksug.ai" target="_blank">→ Get Bundle</a> |
+| PCA + LFS241 | **{{PCA_BUNDLE_DISCOUNT}}** | `{{PCA_BUNDLE_CODE}}` | <a href="https://pca.ksug.ai" target="_blank">→ Get Bundle</a> |
 
 </details>
 
-### 🎓 Individual Certifications • **30% OFF** • Code: `30K8SUG`
+### 🎓 Individual Certifications • **{{INDIVIDUAL_SECTION_DISCOUNT}}**{{INDIVIDUAL_SECTION_CODE_TEXT}}
 
 <details>
 <summary><b>View All Certifications (16 options)</b></summary>
 
 | Certification | Discount | Code | Link |
 |---------------|----------|------|------|
-| 🔵 Certified Kubernetes Administrator (CKA) | **30% OFF** | `30K8SUG` | <a href="https://cka.ksug.ai" target="_blank">→ Enroll</a> |
-| 🔵 Certified Kubernetes Application Developer (CKAD) | **30% OFF** | `30K8SUG` | <a href="https://ckad.ksug.ai" target="_blank">→ Enroll</a> |
-| 🔵 Certified Kubernetes Security Specialist (CKS) | **30% OFF** | `30K8SUG` | <a href="https://cks.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟢 Kubernetes and Cloud Native Associate (KCNA) | **30% OFF** | `30K8SUG` | <a href="https://kcna.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟢 Kubernetes and Cloud Native Security Associate (KCSA) | **30% OFF** | `30K8SUG` | <a href="https://kcsa.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Prometheus Certified Associate (PCA) | **30% OFF** | `30K8SUG` | <a href="https://pca.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Istio Certified Associate (ICA) | **30% OFF** | `30K8SUG` | <a href="https://ica.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Certified Argo Project Associate (CAPA) | **30% OFF** | `30K8SUG` | <a href="https://capa.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Certified GitOps Associate (CGOA) | **30% OFF** | `30K8SUG` | <a href="https://cgoa.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Cilium Certified Associate (CCA) | **30% OFF** | `30K8SUG` | <a href="https://cca.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Certified Backstage Associate (CBA) | **30% OFF** | `30K8SUG` | <a href="https://cba.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 OpenTelemetry Certified Associate (OTCA) | **30% OFF** | `30K8SUG` | <a href="https://otca.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟡 Kyverno Certified Associate (KCA) | **30% OFF** | `30K8SUG` | <a href="https://kca.ksug.ai" target="_blank">→ Enroll</a> |
-| 🔴 Linux Foundation Certified System Administrator (LFCS) | **30% OFF** | `30K8SUG` | <a href="https://lfcs.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟣 Certified Cloud Native Platform Engineering Associate (CNPA) | **30% OFF** | `30K8SUG` | <a href="https://cnpa.ksug.ai" target="_blank">→ Enroll</a> |
-| 🟣 Certified Cloud Native Platform Engineer (CNPE) | **30% OFF** | `30K8SUG` | <a href="https://cnpe.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔵 Certified Kubernetes Administrator (CKA) | **{{CKA_DISCOUNT}}** | `{{CKA_CODE}}` | <a href="https://cka.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔵 Certified Kubernetes Application Developer (CKAD) | **{{CKAD_DISCOUNT}}** | `{{CKAD_CODE}}` | <a href="https://ckad.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔵 Certified Kubernetes Security Specialist (CKS) | **{{CKS_DISCOUNT}}** | `{{CKS_CODE}}` | <a href="https://cks.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟢 Kubernetes and Cloud Native Associate (KCNA) | **{{KCNA_DISCOUNT}}** | `{{KCNA_CODE}}` | <a href="https://kcna.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟢 Kubernetes and Cloud Native Security Associate (KCSA) | **{{KCSA_DISCOUNT}}** | `{{KCSA_CODE}}` | <a href="https://kcsa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Prometheus Certified Associate (PCA) | **{{PCA_DISCOUNT}}** | `{{PCA_CODE}}` | <a href="https://pca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Istio Certified Associate (ICA) | **{{ICA_CERT_DISCOUNT}}** | `{{ICA_CERT_CODE}}` | <a href="https://ica.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Certified Argo Project Associate (CAPA) | **{{CAPA_CERT_DISCOUNT}}** | `{{CAPA_CERT_CODE}}` | <a href="https://capa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Certified GitOps Associate (CGOA) | **{{CGOA_DISCOUNT}}** | `{{CGOA_CODE}}` | <a href="https://cgoa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Cilium Certified Associate (CCA) | **{{CCA_DISCOUNT}}** | `{{CCA_CODE}}` | <a href="https://cca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Certified Backstage Associate (CBA) | **{{CBA_DISCOUNT}}** | `{{CBA_CODE}}` | <a href="https://cba.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 OpenTelemetry Certified Associate (OTCA) | **{{OTCA_DISCOUNT}}** | `{{OTCA_CODE}}` | <a href="https://otca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟡 Kyverno Certified Associate (KCA) | **{{KCA_DISCOUNT}}** | `{{KCA_CODE}}` | <a href="https://kca.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔴 Linux Foundation Certified System Administrator (LFCS) | **{{LFCS_DISCOUNT}}** | `{{LFCS_CODE}}` | <a href="https://lfcs.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟣 Certified Cloud Native Platform Engineering Associate (CNPA) | **{{CNPA_DISCOUNT}}** | `{{CNPA_CODE}}` | <a href="https://cnpa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🟣 Certified Cloud Native Platform Engineer (CNPE) | **{{CNPE_DISCOUNT}}** | `{{CNPE_CODE}}` | <a href="https://cnpe.ksug.ai" target="_blank">→ Enroll</a> |
 
 </details>
 
