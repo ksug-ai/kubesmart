@@ -1,14 +1,14 @@
 {
   "updated_date": "August 2026",
-  "is_promo_active": false,
-  "promo_banner_text": "### ☀️ Summer Special Promo • Save Up to 40% OFF • Offer Ends August 8!",
-  "default_discount": "30% OFF",
-  "default_code": "30K8SUG",
+  "is_promo_active": true,
+  "promo_banner_text": "### 🐧 35 Years of Linux Promo • Save 35% OFF Sitewide • Offer Ends August 19! Code: `TUX35AI`",
+  "default_discount": "35% OFF",
+  "default_code": "TUX35AI",
   "section_discounts": {
-    "super_bundles": "30% OFF",
-    "kubestronaut": "30% OFF",
-    "bundles": "30% OFF",
-    "individual": "30% OFF"
+    "super_bundles": "35% OFF",
+    "kubestronaut": "35% OFF",
+    "bundles": "35% OFF",
+    "individual": "35% OFF"
   },
   "overrides": {}
 }
