@@ -48,7 +48,7 @@ def main():
     ]:
         sec_disc = section_discounts.get(sec_key, default_discount)
         replacements[f"{{{{{sec_name}_SECTION_DISCOUNT}}}}"] = sec_disc
-        if not is_promo:
+        if default_code:
             replacements[f"{{{{{sec_name}_SECTION_CODE_TEXT}}}}"] = f" • Code: `{default_code}`"
         else:
             replacements[f"{{{{{sec_name}_SECTION_CODE_TEXT}}}}"] = ""

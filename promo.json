@@ -1,7 +1,7 @@
 {
   "updated_date": "August 2026",
-  "is_promo_active": false,
-  "promo_banner_text": "",
+  "is_promo_active": true,
+  "promo_banner_text": "### 💬 To save 40%, get the code from <a href=\"https://dis.ksug.ai\" target=\"_blank\">discord</a>.",
   "default_discount": "30% OFF",
   "default_code": "30K8SUG",
   "section_discounts": {

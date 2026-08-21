@@ -13,6 +13,8 @@
 
 ## 🎯 Active Promotions (Updated August 2026) | <a href="https://ksug.ai/?notify&ref=github" target="_blank">Get Notified!</a>
 
+### 💬 To save 40%, get the code from <a href="https://dis.ksug.ai" target="_blank">discord</a>.
+
 <table>
 <tr>
 <td width="33%">
