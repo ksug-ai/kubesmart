@@ -102,26 +102,31 @@
 | 🟣 Certified Cloud Native Platform Engineering Associate (CNPA) | **{{CNPA_DISCOUNT}}** | `{{CNPA_CODE}}` | <a href="https://cnpa.ksug.ai" target="_blank">→ Enroll</a> |
 | 🟣 Certified Cloud Native Platform Engineer (CNPE) | **{{CNPE_DISCOUNT}}** | `{{CNPE_CODE}}` | <a href="https://cnpe.ksug.ai" target="_blank">→ Enroll</a> |
 
-</details>
+---
 
-<!--
-## 🎪 KubeCon + CloudNativeCon Europe 2026
+## 🎪 Global Conferences & Events • **30% OFF** • Code: `KSAI`
 
-> 📍 **Amsterdam** • 🗓️ **March 23-26** • 💰 **20% OFF with code `KSAI20`**
+> 🎟️ Save **30% OFF** registration for Linux Foundation, CNCF, and AAIF global conferences and events using discount code **`KSAI`**.
 
 <div align="center">
 
-<a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/register/" target="_blank"><img src="https://img.shields.io/badge/Register_Now-KubeCon_Europe-326CE5?style=for-the-badge&logo=kubernetes" alt="Register Now"/></a>
+<a href="https://events.linuxfoundation.org" target="_blank"><img src="https://img.shields.io/badge/🎟️_Register_with_Code_KSAI-30%25_OFF-326CE5?style=for-the-badge" alt="30% OFF Events Code KSAI"/></a>
 
 </div>
 
-| 🎟️ Pass Type | 💵 Original | 🎉 Discounted |
-|:-------------|------------:|-------------:|
-| 👤 Individual - Conference Only | $1,278 | **$1,022** |
-| 🏢 Corporate - Conference Only | $1,899 | **$1,519** |
-| 👤 Individual - All Access | $978 | **$782** |
-| 🏢 Corporate - All Access | $1,798 | **$1,438** |
--->
+<details open>
+<summary><b>View All Global Conferences & Events (6 events)</b></summary>
+
+| Conference / Event | Focus / Details | Location & Dates | Discount | Code | Registration |
+|:-------------------|:----------------|:-----------------|:--------:|:----:|:------------:|
+| **KubeCon + CloudNativeCon North America** | Flagship CNCF & Kubernetes conference | Salt Lake City, Utah | **30% OFF** | `KSAI` | <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/" target="_blank">→ Register</a> |
+| **AGNTCon + MCPCon** | Flagship Agentic AI & Model Context Protocol Conference | Global (North America / Europe / Asia) | **30% OFF** | `KSAI` | <a href="https://events.linuxfoundation.org" target="_blank">→ Register</a> |
+| **KubeCon + CloudNativeCon Europe** | Flagship CNCF European gathering | Amsterdam, Netherlands | **30% OFF** | `KSAI` | <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/" target="_blank">→ Register</a> |
+| **PyTorch Conference** | Open Source AI & Deep Learning Ecosystem | San Jose, California | **30% OFF** | `KSAI` | <a href="https://events.linuxfoundation.org/pytorch-conference/" target="_blank">→ Register</a> |
+| **Open Source Summit** | Open Source Software, Linux, AI & Digital Trust | North America / Europe | **30% OFF** | `KSAI` | <a href="https://events.linuxfoundation.org/open-source-summit-north-america/" target="_blank">→ Register</a> |
+| **FinOps X** | Premier Cloud Financial Management & AI FinOps Event | San Diego, California | **30% OFF** | `KSAI` | <a href="https://x.finops.org" target="_blank">→ Register</a> |
+
+</details>
 
 ---
 
@@ -179,6 +184,9 @@
 - <a href="http://ckads.ksug.ai" target="_blank">CKA + CKAD + CKS</a> • <a href="http://ckaad.ksug.ai" target="_blank">CKA + CKAD</a> • <a href="http://ckas.ksug.ai" target="_blank">CKA + CKS</a> • <a href="http://nacka.ksug.ai" target="_blank">CKA + KCNA</a>
 - <a href="http://sacks.ksug.ai" target="_blank">KCSA + CKS</a> • <a href="http://nasa.ksug.ai" target="_blank">KCSA + KCNA</a> • <a href="http://ica.ksug.ai" target="_blank">ICA + LFS245</a> • <a href="http://capa.ksug.ai" target="_blank">CAPA + LFS256</a>
 - <a href="http://lfca.ksug.ai" target="_blank">LFCA + KCNA</a> • <a href="http://lfca.ksug.ai" target="_blank">LFCA + LFS200</a> • <a href="https://pca.ksug.ai" target="_blank">PCA + LFS241</a>
+
+### 🎪 Global Conferences & Events
+- <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/" target="_blank">KubeCon NA</a> • <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/" target="_blank">KubeCon Europe</a> • <a href="https://events.linuxfoundation.org" target="_blank">AGNTCon + MCPCon</a> • <a href="https://events.linuxfoundation.org/pytorch-conference/" target="_blank">PyTorch Conference</a> • <a href="https://events.linuxfoundation.org/open-source-summit-north-america/" target="_blank">OSS Summit</a> • <a href="https://x.finops.org" target="_blank">FinOps X</a>
 
 ---
 
