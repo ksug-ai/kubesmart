@@ -150,8 +150,8 @@
 
 | Conference / Event | Focus / Details | Location & Dates | Discount | Code | Registration |
 |:-------------------|:----------------|:-----------------|:--------:|:----:|:------------:|
-| **KubeCon + CloudNativeCon North America** | Flagship CNCF & Kubernetes conference | Salt Lake City, Utah | **30% OFF** | `KSAI` | <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/" target="_blank">→ Register</a> |
-| **AGNTCon + MCPCon** | Flagship Agentic AI & Model Context Protocol Conference | Global (North America / Europe / Asia) | **30% OFF** | `KSAI` | <a href="https://events.linuxfoundation.org" target="_blank">→ Register</a> |
+| **KubeCon + CloudNativeCon North America** | Flagship CNCF & Kubernetes conference | Salt Lake City, Utah | **30% OFF** | `KSAI` | <a href="https://ksug.ai/events/kubecon-na-2026" target="_blank">→ Register</a> |
+| **AGNTCon + MCPCon** | Flagship Agentic AI & Model Context Protocol Conference | Global (North America / Europe / Asia) | **30% OFF** | `KSAI` | <a href="https://ksug.ai/agntcon-mcpcon-north-america-2026" target="_blank">→ Register</a> |
 
 </details>
 
@@ -184,7 +184,7 @@
 - <a href="http://lfca.ksug.ai" target="_blank">LFCA + KCNA</a> • <a href="http://lfca.ksug.ai" target="_blank">LFCA + LFS200</a> • <a href="https://pca.ksug.ai" target="_blank">PCA + LFS241</a>
 
 ### 🎪 Global Conferences & Events
-- <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/" target="_blank">KubeCon NA</a> • <a href="https://events.linuxfoundation.org" target="_blank">AGNTCon + MCPCon</a>
+- <a href="https://ksug.ai/events/kubecon-na-2026" target="_blank">KubeCon NA</a> • <a href="https://ksug.ai/agntcon-mcpcon-north-america-2026" target="_blank">AGNTCon + MCPCon</a>
 
 ---
 
