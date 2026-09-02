@@ -104,9 +104,9 @@
 
 ---
 
-## 🎪 Global Conferences & Events • **Up to 30% OFF** • Code: `KSAI`
+## 🎪 Global Conferences & Events • **30% OFF** • Code: `KSAI`
 
-> 🎟️ Save **Up to 30% OFF** registration for Linux Foundation, CNCF, and AAIF global conferences and events using discount code **`KSAI`**.
+> 🎟️ Save **30% OFF** registration for Linux Foundation, CNCF, and AAIF global conferences and events using discount code **`KSAI`**.
 
 <div align="center">
 
@@ -120,9 +120,11 @@
 | Conference / Event | Focus / Details | Location & Dates | Discount | Code | Registration |
 |:-------------------|:----------------|:-----------------|:--------:|:----:|:------------:|
 | **KubeCon + CloudNativeCon North America** | Flagship CNCF & Kubernetes conference | Salt Lake City, Utah | **30% OFF** | `KSAI` | <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/" target="_blank">→ Register</a> |
-| **AGNTCon + MCPCon** | Flagship Agentic AI & Model Context Protocol Conference | Global (North America / Europe / Asia) | **Up to 30% OFF** | `KSAI` | <a href="https://events.linuxfoundation.org" target="_blank">→ Register</a> |
+| **AGNTCon + MCPCon** | Flagship Agentic AI & Model Context Protocol Conference | Global (North America / Europe / Asia) | **30% OFF** | `KSAI` | <a href="https://events.linuxfoundation.org" target="_blank">→ Register</a> |
 | **KubeCon + CloudNativeCon Europe** | Flagship CNCF European gathering | Amsterdam, Netherlands | **30% OFF** | `KSAI` | <a href="https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/" target="_blank">→ Register</a> |
-| **Open Source Summit** | Open Source Software, Linux, AI & Digital Trust | North America / Europe | **Up to 30% OFF** | `KSAI` | <a href="https://events.linuxfoundation.org/open-source-summit-north-america/" target="_blank">→ Register</a> |
+| **PyTorch Conference** | Open Source AI & Deep Learning Ecosystem | San Jose, California | **30% OFF** | `KSAI` | <a href="https://events.linuxfoundation.org/pytorch-conference/" target="_blank">→ Register</a> |
+| **Open Source Summit** | Open Source Software, Linux, AI & Digital Trust | North America / Europe | **30% OFF** | `KSAI` | <a href="https://events.linuxfoundation.org/open-source-summit-north-america/" target="_blank">→ Register</a> |
+| **FinOps X** | Premier Cloud Financial Management & AI FinOps Event | San Diego, California | **30% OFF** | `KSAI` | <a href="https://x.finops.org" target="_blank">→ Register</a> |
 
 </details>
 
