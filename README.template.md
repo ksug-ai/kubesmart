@@ -141,7 +141,7 @@
 
 <div align="center">
 
-<a href="https://events.linuxfoundation.org" target="_blank"><img src="https://img.shields.io/badge/🎟️_Register_with_Code_KSAI-30%25_OFF-326CE5?style=for-the-badge" alt="30% OFF Events Code KSAI"/></a>
+<a href="https://ksug.ai/events" target="_blank"><img src="https://img.shields.io/badge/🎟️_Register_with_Code_KSAI-30%25_OFF-326CE5?style=for-the-badge" alt="30% OFF Events Code KSAI"/></a>
 
 </div>
 
