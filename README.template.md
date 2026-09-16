@@ -135,13 +135,13 @@
 
 ---
 
-## 🎪 Global Conferences & Events • **30% OFF** • Code: `KSAI`
+## 🎪 Global Conferences & Events • Save Up to **50% OFF**
 
-> 🎟️ Save **30% OFF** registration for Linux Foundation, CNCF, and AAIF global conferences and events using discount code **`KSAI`**.
+> 🎟️ Save up to **50% OFF** registration for Linux Foundation, CNCF, and AAIF global conferences and events using exclusive community discount codes.
 
 <div align="center">
 
-<a href="https://ksug.ai/events" target="_blank"><img src="https://img.shields.io/badge/🎟️_Register_with_Code_KSAI-30%25_OFF-326CE5?style=for-the-badge" alt="30% OFF Events Code KSAI"/></a>
+<a href="https://ksug.ai/events" target="_blank"><img src="https://img.shields.io/badge/🎟️_Register_for_Events-Up_to_50%25_OFF-326CE5?style=for-the-badge" alt="Up to 50% OFF Events"/></a>
 
 </div>
 
@@ -150,10 +150,10 @@
 
 | Conference / Event | Focus / Details | Location & Dates | Discount | Code | Registration |
 |:-------------------|:----------------|:-----------------|:--------:|:----:|:------------:|
-| **KubeCon + CloudNativeCon North America** | Flagship CNCF & Kubernetes conference | Salt Lake City, Utah | **30% OFF** | `KSAI` | <a href="https://ksug.ai/events/kubecon-na-2026" target="_blank">→ I Want to Go</a> |
+| **KubeCon + CloudNativeCon North America** | Flagship CNCF & Kubernetes conference | Salt Lake City, Utah | **20% OFF** | `KSAI20` | <a href="https://ksug.ai/events/kubecon-na-2026" target="_blank">→ I Want to Go</a> |
 | **PyTorch Conference North America** | Flagship PyTorch & AI Conference | San Jose, California | **40% OFF** | `KSAI` | <a href="https://ksug.ai/events/pycon-na26" target="_blank">→ Register</a> |
 | **AGNTCon + MCPCon North America** | Flagship Agentic AI & Model Context Protocol | San Jose, California | **21% OFF** | `KSAI` | <a href="https://ksug.ai/agntcon-mcpcon-north-america-2026" target="_blank">→ Register</a> |
-| **AGNTCon + MCPCon Europe** | Flagship Agentic AI & Model Context Protocol | Amsterdam, Netherlands | **27% OFF** | `KSAI` | <a href="https://ksug.ai/agntcon-mcpcon-europe-2026" target="_blank">→ Register</a> |
+| **AGNTCon + MCPCon Europe** | Flagship Agentic AI & Model Context Protocol | Amsterdam, Netherlands | **50% OFF** | `KSAI_50` | <a href="https://ksug.ai/agntcon-mcpcon-europe-2026" target="_blank">→ Register</a> |
 
 </details>
 
