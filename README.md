@@ -83,7 +83,7 @@
 ### 🎓 Individual Certifications • **35% OFF** • Code: `SEPT26BTS35`
 
 <details>
-<summary><b>View All Certifications (16 options)</b></summary>
+<summary><b>View All Certifications (18 options)</b></summary>
 
 | Certification | Discount | Code | Link |
 |---------------|----------|------|------|
@@ -92,6 +92,7 @@
 | 🔵 Certified Kubernetes Security Specialist (CKS) | **35% OFF** | `SEPT26BTS35` | <a href="https://cks.ksug.ai" target="_blank">→ Enroll</a> |
 | 🟢 Kubernetes and Cloud Native Associate (KCNA) | **35% OFF** | `SEPT26BTS35` | <a href="https://kcna.ksug.ai" target="_blank">→ Enroll</a> |
 | 🟢 Kubernetes and Cloud Native Security Associate (KCSA) | **35% OFF** | `SEPT26BTS35` | <a href="https://kcsa.ksug.ai" target="_blank">→ Enroll</a> |
+| 🔵 Certified Kubernetes Network Engineer (CKNE) | **35% OFF** | `SEPT26BTS35` | <a href="https://ckne.ksug.ai" target="_blank">→ Enroll</a> |
 | 🟡 Prometheus Certified Associate (PCA) | **35% OFF** | `SEPT26BTS35` | <a href="https://pca.ksug.ai" target="_blank">→ Enroll</a> |
 | 🟡 Istio Certified Associate (ICA) | **35% OFF** | `SEPT26BTS35` | <a href="https://ica.ksug.ai" target="_blank">→ Enroll</a> |
 | 🟡 Certified Argo Project Associate (CAPA) | **35% OFF** | `SEPT26BTS35` | <a href="https://capa.ksug.ai" target="_blank">→ Enroll</a> |
@@ -103,6 +104,7 @@
 | 🔴 Linux Foundation Certified System Administrator (LFCS) | **35% OFF** | `SEPT26BTS35` | <a href="https://lfcs.ksug.ai" target="_blank">→ Enroll</a> |
 | 🟣 Certified Cloud Native Platform Engineering Associate (CNPA) | **35% OFF** | `SEPT26BTS35` | <a href="https://cnpa.ksug.ai" target="_blank">→ Enroll</a> |
 | 🟣 Certified Cloud Native Platform Engineer (CNPE) | **35% OFF** | `SEPT26BTS35` | <a href="https://cnpe.ksug.ai" target="_blank">→ Enroll</a> |
+| 🤖 Model Context Protocol Associate (MCPA) | **35% OFF** | `SEPT26BTS35` | <a href="https://mcpa.ksug.ai" target="_blank">→ Enroll</a> |
 
 </details>
 
@@ -166,7 +168,7 @@
 ### Popular Certifications
 
 **🔵 Kubernetes Track**
-- <a href="https://cka.ksug.ai" target="_blank">CKA</a> • <a href="https://ckad.ksug.ai" target="_blank">CKAD</a> • <a href="https://cks.ksug.ai" target="_blank">CKS</a> • <a href="https://kcna.ksug.ai" target="_blank">KCNA</a> • <a href="https://kcsa.ksug.ai" target="_blank">KCSA</a>
+- <a href="https://cka.ksug.ai" target="_blank">CKA</a> • <a href="https://ckad.ksug.ai" target="_blank">CKAD</a> • <a href="https://cks.ksug.ai" target="_blank">CKS</a> • <a href="https://kcna.ksug.ai" target="_blank">KCNA</a> • <a href="https://kcsa.ksug.ai" target="_blank">KCSA</a> • <a href="https://ckne.ksug.ai" target="_blank">CKNE</a>
 
 **🟡 Cloud Native Tools**
 - <a href="https://pca.ksug.ai" target="_blank">PCA</a> • <a href="https://ica.ksug.ai" target="_blank">ICA</a> • <a href="https://capa.ksug.ai" target="_blank">CAPA</a> • <a href="https://cgoa.ksug.ai" target="_blank">CGOA</a> • <a href="https://cca.ksug.ai" target="_blank">CCA</a> • <a href="https://cba.ksug.ai" target="_blank">CBA</a> • <a href="https://otca.ksug.ai" target="_blank">OTCA</a> • <a href="https://kca.ksug.ai" target="_blank">KCA</a>
@@ -176,6 +178,9 @@
 
 **🟣 Platform Engineering**
 - <a href="https://cnpa.ksug.ai" target="_blank">CNPA</a> • <a href="https://cnpe.ksug.ai" target="_blank">CNPE</a>
+
+**🤖 AI & Model Context Protocol**
+- <a href="https://mcpa.ksug.ai" target="_blank">MCPA</a>
 
 ### Popular Bundles
 

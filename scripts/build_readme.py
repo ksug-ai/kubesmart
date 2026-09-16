@@ -85,6 +85,7 @@ def main():
         "CKS": "individual",
         "KCNA": "individual",
         "KCSA": "individual",
+        "CKNE": "individual",
         "PCA": "individual",
         "ICA_CERT": "individual",
         "CAPA_CERT": "individual",
@@ -96,6 +97,7 @@ def main():
         "LFCS": "individual",
         "CNPA": "individual",
         "CNPE": "individual",
+        "MCPA": "individual",
     }
 
     for item, sec_key in item_sections.items():
