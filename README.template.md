@@ -207,16 +207,16 @@
 
 <a href="https://ksug.ai/save/?ref=github" target="_blank"><img src="https://img.shields.io/badge/🌐_Website-ksug.ai-blue?style=flat-square" alt="Website"/></a>
 <a href="https://linktr.ee/ksug.ai" target="_blank"><img src="https://img.shields.io/badge/🔗_All_Links-linktr.ee-green?style=flat-square" alt="Linktree"/></a>
-<a href="https://www.meetup.com/pro/yongkang" target="_blank"><img src="https://img.shields.io/badge/📍_Meetup-31K+_Members-red?style=flat-square" alt="Meetup"/></a>
-<a href="https://linkedin.com/company/95053109" target="_blank"><img src="https://img.shields.io/badge/💼_LinkedIn-19K+_Followers-0077B5?style=flat-square" alt="LinkedIn"/></a>
-<a href="https://www.linkedin.com/newsletters/k8sug-newsletter-7284165390442622976/" target="_blank"><img src="https://img.shields.io/badge/📧_Newsletter-14K+_Subscribers-orange?style=flat-square" alt="Newsletter"/></a>
+<a href="https://www.meetup.com/pro/yongkang" target="_blank"><img src="https://img.shields.io/badge/📍_Meetup-38K+_Members-red?style=flat-square" alt="Meetup"/></a>
+<a href="https://linkedin.com/company/95053109" target="_blank"><img src="https://img.shields.io/badge/💼_LinkedIn-21K+_Followers-0077B5?style=flat-square" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/newsletters/k8sug-newsletter-7284165390442622976/" target="_blank"><img src="https://img.shields.io/badge/📧_Newsletter-17K+_Subscribers-orange?style=flat-square" alt="Newsletter"/></a>
 <a href="https://discord.com/invite/Rp9WzYyKua" target="_blank"><img src="https://img.shields.io/badge/💬_Discord-Join_Chat-5865F2?style=flat-square" alt="Discord"/></a>
 
 ### Community Stats
 
 🔗 <a href="https://linkedin.com/in/yongkanghe" target="_blank">Founder LinkedIn</a> • 55K+ followers  
 💪 <a href="https://linkedin.com/company/kubestrong" target="_blank">kubestrong</a> • 37K+ followers  
-☁️ <a href="https://linkedin.com/company/awstronaut" target="_blank">awstronaut</a> • 16K+ followers  
+☁️ <a href="https://linkedin.com/company/awstronaut" target="_blank">awstronaut</a> • 17K+ followers  
 💬 <a href="https://www.linkedin.com/groups/12376235/" target="_blank">CCSG Group</a> • 33K+ members<br>
 💬 <a href="https://www.linkedin.com/groups/13983251/" target="_blank">CNAG Group</a> • 25K+ members<br>
 💬 <a href="https://www.linkedin.com/groups/ksug/" target="_blank">KSUG.AI Community</a> • 21K+ members
