@@ -146,11 +146,12 @@
 </div>
 
 <details open>
-<summary><b>View All Global Conferences & Events (6 events)</b></summary>
+<summary><b>View All Global Conferences & Events (7 events)</b></summary>
 
 | Conference / Event | Focus / Details | Location & Dates | Discount | Code | Registration |
 |:-------------------|:----------------|:-----------------|:--------:|:----:|:------------:|
-| **KubeCon + CloudNativeCon North America** | Flagship CNCF & Kubernetes conference | Salt Lake City, Utah | **30% OFF** | `KSAI` | <a href="https://ksug.ai/kubecon-na-2026" target="_blank">→ Register</a> |
+| **KubeCon + CloudNativeCon North America** | Flagship CNCF & Kubernetes conference | Salt Lake City, Utah | **30% OFF** | `KSAI` | <a href="https://ksug.ai/events/kubecon-na-2026" target="_blank">→ I Want to Go</a> |
+| **PyTorch Conference North America** | Flagship PyTorch & AI Conference | San Jose, California | **40% OFF** | `KSAI` | <a href="https://ksug.ai/events/pycon-na26" target="_blank">→ Register</a> |
 | **AGNTCon + MCPCon North America** | Flagship Agentic AI & Model Context Protocol | San Jose, California | **21% OFF** | `KSAI` | <a href="https://ksug.ai/agntcon-mcpcon-north-america-2026" target="_blank">→ Register</a> |
 | **AGNTCon + MCPCon China** | Flagship Agentic AI & Model Context Protocol | Shanghai, China | **100% OFF** | `KSAI` | <a href="https://ksug.ai/agntcon-mcpcon-china-2026" target="_blank">→ Register</a> |
 | **KubeCon + CloudNativeCon China** | CNCF + OpenInfra + PyTorch Conference | Shanghai, China | **14% OFF** | `KSAI` | <a href="https://ksug.ai/events/kubecon-china-2026" target="_blank">→ Register</a> |

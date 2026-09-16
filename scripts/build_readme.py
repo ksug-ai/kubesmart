@@ -33,6 +33,7 @@ def main():
     default_discount = config.get("default_discount", "30% OFF")
     default_code = config.get("default_code", "30K8SUG")
     section_discounts = config.get("section_discounts", {})
+    section_codes = config.get("section_codes", {})
     overrides = config.get("overrides", {})
 
     replacements = {
@@ -47,24 +48,63 @@ def main():
         ("individual", "INDIVIDUAL"),
     ]:
         sec_disc = section_discounts.get(sec_key, default_discount)
+        sec_code = section_codes.get(sec_key, default_code)
         replacements[f"{{{{{sec_name}_SECTION_DISCOUNT}}}}"] = sec_disc
-        if default_code:
-            replacements[f"{{{{{sec_name}_SECTION_CODE_TEXT}}}}"] = f" • Code: `{default_code}`"
+        if sec_code:
+            replacements[f"{{{{{sec_name}_SECTION_CODE_TEXT}}}}"] = f" • Code: `{sec_code}`"
         else:
             replacements[f"{{{{{sec_name}_SECTION_CODE_TEXT}}}}"] = ""
 
-    # Items
-    items = [
-        "CYBER", "CLOUD", "DEV",
-        "KB", "GK", "KGU", "CKAU", "CKADU",
-        "SACKS", "NASA", "CKAAD", "CKAS", "NACKA", "CKADS", "ICA", "CAPA", "LFCA_KCNA", "LFCA_LFS200", "PCA_BUNDLE",
-        "CKA", "CKAD", "CKS", "KCNA", "KCSA", "PCA", "ICA_CERT", "CAPA_CERT", "CGOA", "CCA", "CBA", "OTCA", "KCA", "LFCS", "CNPA", "CNPE"
-    ]
+    # Items mapping to sections
+    item_sections = {
+        # Super Bundles
+        "CYBER": "super_bundles",
+        "CLOUD": "super_bundles",
+        "DEV": "super_bundles",
+        # Kubestronaut
+        "KB": "kubestronaut",
+        "GK": "kubestronaut",
+        "KGU": "kubestronaut",
+        "CKAU": "kubestronaut",
+        "CKADU": "kubestronaut",
+        # Bundles
+        "SACKS": "bundles",
+        "NASA": "bundles",
+        "CKAAD": "bundles",
+        "CKAS": "bundles",
+        "NACKA": "bundles",
+        "CKADS": "bundles",
+        "ICA": "bundles",
+        "CAPA": "bundles",
+        "LFCA_KCNA": "bundles",
+        "LFCA_LFS200": "bundles",
+        "PCA_BUNDLE": "bundles",
+        # Individual Certifications
+        "CKA": "individual",
+        "CKAD": "individual",
+        "CKS": "individual",
+        "KCNA": "individual",
+        "KCSA": "individual",
+        "PCA": "individual",
+        "ICA_CERT": "individual",
+        "CAPA_CERT": "individual",
+        "CGOA": "individual",
+        "CCA": "individual",
+        "CBA": "individual",
+        "OTCA": "individual",
+        "KCA": "individual",
+        "LFCS": "individual",
+        "CNPA": "individual",
+        "CNPE": "individual",
+    }
 
-    for item in items:
+    for item, sec_key in item_sections.items():
+        sec_disc = section_discounts.get(sec_key, default_discount)
+        sec_code = section_codes.get(sec_key, default_code)
+
         item_override = overrides.get(item, {})
-        disc = item_override.get("discount", default_discount)
-        code = item_override.get("code", default_code)
+        disc = item_override.get("discount", sec_disc)
+        code = item_override.get("code", sec_code)
 
         replacements[f"{{{{{item}_DISCOUNT}}}}"] = disc
         replacements[f"{{{{{item}_CODE}}}}"] = code
