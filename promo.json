@@ -1,20 +1,20 @@
 {
   "updated_date": "September 2026",
-  "is_promo_active": true,
-  "promo_banner_text": "### ✏️ <a href=\"https://sf2.ksug.ai\" target=\"_blank\">Back to School 2026 Promo</a> • Save Up to 40% OFF Bundles & 35% OFF Certs • Offer Ends September 23!",
-  "default_discount": "40% OFF",
-  "default_code": "SEPT26BTS40",
+  "is_promo_active": false,
+  "promo_banner_text": "",
+  "default_discount": "30% OFF",
+  "default_code": "30K8SUG",
   "section_discounts": {
-    "super_bundles": "40% OFF",
-    "kubestronaut": "40% OFF",
-    "bundles": "40% OFF",
-    "individual": "35% OFF"
+    "super_bundles": "30% OFF",
+    "kubestronaut": "30% OFF",
+    "bundles": "30% OFF",
+    "individual": "30% OFF"
   },
   "section_codes": {
-    "super_bundles": "SEPT26BTS40",
-    "kubestronaut": "SEPT26BTS40",
-    "bundles": "SEPT26BTS40",
-    "individual": "SEPT26BTS35"
+    "super_bundles": "30K8SUG",
+    "kubestronaut": "30K8SUG",
+    "bundles": "30K8SUG",
+    "individual": "30K8SUG"
   },
   "overrides": {}
 }
