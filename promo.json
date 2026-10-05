@@ -1,20 +1,20 @@
 {
-  "updated_date": "September 2026",
-  "is_promo_active": false,
-  "promo_banner_text": "",
+  "updated_date": "October 2026",
+  "is_promo_active": true,
+  "promo_banner_text": "> 🔥 **October Prime:** Save 75% on Super Bundles, 50% on Bundles, and 40% on instructor-led training, eLearning courses, and certifications.",
   "default_discount": "30% OFF",
   "default_code": "30K8SUG",
   "section_discounts": {
-    "super_bundles": "30% OFF",
-    "kubestronaut": "30% OFF",
-    "bundles": "30% OFF",
-    "individual": "30% OFF"
+    "super_bundles": "75% OFF",
+    "kubestronaut": "50% OFF",
+    "bundles": "50% OFF",
+    "individual": "40% OFF"
   },
   "section_codes": {
-    "super_bundles": "30K8SUG",
-    "kubestronaut": "30K8SUG",
-    "bundles": "30K8SUG",
-    "individual": "30K8SUG"
+    "super_bundles": "OCTPRIME26SBAI",
+    "kubestronaut": "OCTPRIME26BAI",
+    "bundles": "OCTPRIME26BAI",
+    "individual": "OCTPRIME26CCAI"
   },
   "overrides": {}
 }
