@@ -154,7 +154,7 @@
 |:-------------------|:----------------|:-----------------|:--------:|:----:|:------------:|
 | **KubeCon + CloudNativeCon North America** | Flagship CNCF & Kubernetes conference | Salt Lake City, Utah | **20% OFF** | `KSAI20` | <a href="https://ksug.ai/events/kubecon-na-2026" target="_blank">→ I Want to Go</a> |
 | **PyTorch Conference North America** | Flagship PyTorch & AI Conference | San Jose, California | **40% OFF** | `KSAI` | <a href="https://ksug.ai/events/pycon-na26" target="_blank">→ Register</a> |
-| **AGNTCon + MCPCon North America** | Flagship Agentic AI & Model Context Protocol | San Jose, California | **21% OFF** | `KSAI` | <a href="https://ksug.ai/agntcon-mcpcon-north-america-2026" target="_blank">→ Register</a> |
+| **AGNTCon + MCPCon North America** | Flagship Agentic AI & Model Context Protocol | San Jose, California | **49% OFF** | `KSAI_475` | <a href="https://ksug.ai/agntcon-mcpcon-north-america-2026" target="_blank">→ Register</a> |
 
 </details>
 
