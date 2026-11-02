@@ -148,13 +148,11 @@
 </div>
 
 <details open>
-<summary><b>View All Global Conferences & Events (3 events)</b></summary>
+<summary><b>View All Global Conferences & Events (1 event)</b></summary>
 
 | Conference / Event | Focus / Details | Location & Dates | Discount | Code | Registration |
 |:-------------------|:----------------|:-----------------|:--------:|:----:|:------------:|
 | **KubeCon + CloudNativeCon North America (Nov 9-12, 2026)** | Flagship CNCF & Kubernetes conference | Salt Lake City, Utah | **20% OFF** | `KSAI20` | <a href="https://ksug.ai/events/kubecon-na-2026" target="_blank">→ I Want to Go</a> |
-| **PyTorch Conference North America (Oct 20-21, 2026)** | Flagship PyTorch & AI Conference | San Jose, California | **40% OFF** | `KSAI` | <a href="https://ksug.ai/events/pycon-na26" target="_blank">→ Register</a> |
-| **AGNTCon + MCPCon North America (Oct 21-22, 2026)** | Flagship Agentic AI & Model Context Protocol | San Jose, California | **49% OFF** | `KSAI_475` | <a href="https://ksug.ai/agntcon-mcpcon-north-america-2026" target="_blank">→ Register</a> |
 
 </details>
 
@@ -190,7 +188,7 @@
 - <a href="http://lfca.ksug.ai" target="_blank">LFCA + KCNA</a> • <a href="http://lfca.ksug.ai" target="_blank">LFCA + LFS200</a> • <a href="https://pca.ksug.ai" target="_blank">PCA + LFS241</a>
 
 ### 🎪 Global Conferences & Events
-- <a href="https://ksug.ai/events/kubecon-na-2026" target="_blank">KubeCon NA</a> • <a href="https://ksug.ai/events/pycon-na26" target="_blank">PyTorch Conf NA</a> • <a href="https://ksug.ai/agntcon-mcpcon-north-america-2026" target="_blank">AGNTCon NA</a>
+- <a href="https://ksug.ai/events/kubecon-na-2026" target="_blank">KubeCon NA</a>
 
 ---
 
